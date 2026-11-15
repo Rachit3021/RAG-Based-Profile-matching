@@ -1,0 +1,13 @@
+sentence-transformers
+chromadb
+pymupdf
+python-docx
+spacy
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+nbconvert
+streamlit

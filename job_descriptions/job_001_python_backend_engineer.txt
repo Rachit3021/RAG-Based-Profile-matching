@@ -1,0 +1,8 @@
+Role: Python Backend Engineer
+Must-have requirements:
+- 5+ years of professional Python development
+- Strong experience building REST APIs using Django, Flask or FastAPI
+- PostgreSQL or another relational database
+- Docker and production deployment experience
+Preferred: AWS, Redis, CI/CD, mentoring.
+Responsibilities: Design reliable backend services, review code, improve performance and collaborate with product teams.

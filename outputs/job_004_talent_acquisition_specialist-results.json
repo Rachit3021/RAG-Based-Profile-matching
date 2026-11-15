@@ -1,0 +1,1104 @@
+{
+    "job_description": "job_004_talent_acquisition_specialist.txt",
+    "detected_required_experience": 3,
+    "detected_must_have_skills": [
+        "applicant tracking",
+        "applicant tracking system",
+        "ats",
+        "candidate sourcing",
+        "communicated with",
+        "communication",
+        "coordinated interviews",
+        "interview coordination",
+        "interview scheduling",
+        "recruitment",
+        "recruitment tracking",
+        "scheduling interviews",
+        "sourced candidates",
+        "sourcing",
+        "sourcing candidates",
+        "stakeholder communication",
+        "stakeholder management",
+        "talent acquisition",
+        "talent sourcing"
+    ],
+    "detected_mandatory_requirements": [
+        {
+            "label": "Recruitment or talent acquisition",
+            "any": [
+                "recruitment",
+                "talent acquisition"
+            ]
+        },
+        {
+            "label": "Candidate sourcing",
+            "any": [
+                "candidate sourcing",
+                "sourcing candidates",
+                "talent sourcing",
+                "sourced candidates",
+                "sourcing"
+            ]
+        },
+        {
+            "label": "Interview coordination",
+            "any": [
+                "interview coordination",
+                "coordinated interviews",
+                "interview scheduling",
+                "scheduling interviews"
+            ]
+        },
+        {
+            "label": "ATS or recruitment tracking",
+            "any": [
+                "ats",
+                "applicant tracking system",
+                "recruitment tracking",
+                "applicant tracking"
+            ]
+        },
+        {
+            "label": "Stakeholder communication",
+            "any": [
+                "stakeholder communication",
+                "stakeholder management",
+                "communication",
+                "communicated with"
+            ]
+        }
+    ],
+    "detected_job_skills": [
+        "candidate sourcing",
+        "communication",
+        "interview coordination",
+        "recruitment",
+        "talent acquisition"
+    ],
+    "retrieved_candidates": 30,
+    "qualified_candidates_in_top_10": 0,
+    "top_matches": [
+        {
+            "candidate_name": "Riya Kapoor",
+            "resume_path": "resumes/resume_020.pdf",
+            "match_score": 59.0,
+            "matched_skills": [
+                "interview coordination",
+                "talent acquisition"
+            ],
+            "relevant_excerpts": [
+                "talent acquisition specialist with 3 years of experience. Background in human resources with practical experience delivering team and business outcomes.",
+                "Sourcing, LinkedIn Recruiter, ATS, Interview Coordination, Boolean Search",
+                "Talent Acquisition Specialist | Sample Organization | 2023–2026 Filled engineering and sales roles; improved candidate pipeline reporting and hiring coordination."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 3.0,
+            "education": "MBA HR, 2022",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Stakeholder communication"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 3.0,
+                "required_skills": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "matched_required_skills": [
+                    "ats",
+                    "interview coordination",
+                    "sourcing",
+                    "talent acquisition"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Recruitment or talent acquisition",
+                        "passed": true,
+                        "matched_evidence": [
+                            "talent acquisition"
+                        ],
+                        "alternatives": [
+                            "recruitment",
+                            "talent acquisition"
+                        ]
+                    },
+                    {
+                        "requirement": "Candidate sourcing",
+                        "passed": true,
+                        "matched_evidence": [
+                            "sourcing"
+                        ],
+                        "alternatives": [
+                            "candidate sourcing",
+                            "sourcing candidates",
+                            "talent sourcing",
+                            "sourced candidates",
+                            "sourcing"
+                        ]
+                    },
+                    {
+                        "requirement": "Interview coordination",
+                        "passed": true,
+                        "matched_evidence": [
+                            "interview coordination"
+                        ],
+                        "alternatives": [
+                            "interview coordination",
+                            "coordinated interviews",
+                            "interview scheduling",
+                            "scheduling interviews"
+                        ]
+                    },
+                    {
+                        "requirement": "ATS or recruitment tracking",
+                        "passed": true,
+                        "matched_evidence": [
+                            "ats"
+                        ],
+                        "alternatives": [
+                            "ats",
+                            "applicant tracking system",
+                            "recruitment tracking",
+                            "applicant tracking"
+                        ]
+                    },
+                    {
+                        "requirement": "Stakeholder communication",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "stakeholder communication",
+                            "stakeholder management",
+                            "communication",
+                            "communicated with"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 65.6,
+                "keyword": 40.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 65.60%. Keyword score: 40.00%. Experience score: 100.00%. Matched skills: interview coordination, talent acquisition. Mandatory check: Missing: Stakeholder communication."
+        },
+        {
+            "candidate_name": "Sameer Ali",
+            "resume_path": "resumes/resume_019.pdf",
+            "match_score": 44.43,
+            "matched_skills": [
+                "recruitment"
+            ],
+            "relevant_excerpts": [
+                "HR Generalist | Sample Organization | 2022–2026 Managed end-to-end recruitment for technical roles and coordinated onboarding for 80 hires.",
+                "Recruitment, Onboarding, HRIS, Employee Relations, Excel, Payroll",
+                "hr generalist with 4 years of experience. Background in human resources with practical experience delivering team and business outcomes."
+            ],
+            "matched_sections": [
+                "experience",
+                "general"
+            ],
+            "experience_years": 4.0,
+            "education": "MBA Human Resources, 2021",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 4.0,
+                "required_skills": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "matched_required_skills": [
+                    "recruitment"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Recruitment or talent acquisition",
+                        "passed": true,
+                        "matched_evidence": [
+                            "recruitment"
+                        ],
+                        "alternatives": [
+                            "recruitment",
+                            "talent acquisition"
+                        ]
+                    },
+                    {
+                        "requirement": "Candidate sourcing",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "candidate sourcing",
+                            "sourcing candidates",
+                            "talent sourcing",
+                            "sourced candidates",
+                            "sourcing"
+                        ]
+                    },
+                    {
+                        "requirement": "Interview coordination",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "interview coordination",
+                            "coordinated interviews",
+                            "interview scheduling",
+                            "scheduling interviews"
+                        ]
+                    },
+                    {
+                        "requirement": "ATS or recruitment tracking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "ats",
+                            "applicant tracking system",
+                            "recruitment tracking",
+                            "applicant tracking"
+                        ]
+                    },
+                    {
+                        "requirement": "Stakeholder communication",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "stakeholder communication",
+                            "stakeholder management",
+                            "communication",
+                            "communicated with"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 47.38,
+                "keyword": 20.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 47.38%. Keyword score: 20.00%. Experience score: 100.00%. Matched skills: recruitment. Mandatory check: Missing: Candidate sourcing, Interview coordination, ATS or recruitment tracking, Stakeholder communication."
+        },
+        {
+            "candidate_name": "Manav Shah",
+            "resume_path": "resumes/resume_021.pdf",
+            "match_score": 39.83,
+            "matched_skills": [
+                "communication",
+                "recruitment"
+            ],
+            "relevant_excerpts": [
+                "Recruitment Coordination, Excel, Communication, HR Documentation",
+                "HR Intern | Sample Organization | 2026–2026 Supported interview scheduling, candidate database updates and joining formalities during internship.",
+                "hr intern with 0 years of experience. Background in human resources with practical experience delivering team and business outcomes."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 0.0,
+            "education": "BBA, 2025",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Candidate sourcing",
+                    "ATS or recruitment tracking",
+                    "3+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 3,
+                "candidate_experience": 0.0,
+                "required_skills": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "matched_required_skills": [
+                    "communication",
+                    "interview scheduling",
+                    "recruitment"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Recruitment or talent acquisition",
+                        "passed": true,
+                        "matched_evidence": [
+                            "recruitment"
+                        ],
+                        "alternatives": [
+                            "recruitment",
+                            "talent acquisition"
+                        ]
+                    },
+                    {
+                        "requirement": "Candidate sourcing",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "candidate sourcing",
+                            "sourcing candidates",
+                            "talent sourcing",
+                            "sourced candidates",
+                            "sourcing"
+                        ]
+                    },
+                    {
+                        "requirement": "Interview coordination",
+                        "passed": true,
+                        "matched_evidence": [
+                            "interview scheduling"
+                        ],
+                        "alternatives": [
+                            "interview coordination",
+                            "coordinated interviews",
+                            "interview scheduling",
+                            "scheduling interviews"
+                        ]
+                    },
+                    {
+                        "requirement": "ATS or recruitment tracking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "ats",
+                            "applicant tracking system",
+                            "recruitment tracking",
+                            "applicant tracking"
+                        ]
+                    },
+                    {
+                        "requirement": "Stakeholder communication",
+                        "passed": true,
+                        "matched_evidence": [
+                            "communication"
+                        ],
+                        "alternatives": [
+                            "stakeholder communication",
+                            "stakeholder management",
+                            "communication",
+                            "communicated with"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 46.38,
+                "keyword": 40.0,
+                "experience": 0.0
+            },
+            "reasoning": "Semantic score: 46.38%. Keyword score: 40.00%. Experience score: 0.00%. Matched skills: communication, recruitment. Mandatory check: Missing: Candidate sourcing, ATS or recruitment tracking, 3+ years of experience required."
+        },
+        {
+            "candidate_name": "Yash Sethi",
+            "resume_path": "resumes/resume_028.pdf",
+            "match_score": 36.75,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "network engineer with 6 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "Yash Sethi Network Engineer | candidate28@example.test | +91-90000-10028 | India",
+                "Network Engineer | Sample Organization | 2020–2026 Maintained enterprise network availability and supported firewall changes and incident response."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 6.0,
+            "education": "B.E. Electronics, 2019",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 6.0,
+                "required_skills": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Recruitment or talent acquisition",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "recruitment",
+                            "talent acquisition"
+                        ]
+                    },
+                    {
+                        "requirement": "Candidate sourcing",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "candidate sourcing",
+                            "sourcing candidates",
+                            "talent sourcing",
+                            "sourced candidates",
+                            "sourcing"
+                        ]
+                    },
+                    {
+                        "requirement": "Interview coordination",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "interview coordination",
+                            "coordinated interviews",
+                            "interview scheduling",
+                            "scheduling interviews"
+                        ]
+                    },
+                    {
+                        "requirement": "ATS or recruitment tracking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "ats",
+                            "applicant tracking system",
+                            "recruitment tracking",
+                            "applicant tracking"
+                        ]
+                    },
+                    {
+                        "requirement": "Stakeholder communication",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "stakeholder communication",
+                            "stakeholder management",
+                            "communication",
+                            "communicated with"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 44.59,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 44.59%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Recruitment or talent acquisition, Candidate sourcing, Interview coordination, ATS or recruitment tracking, Stakeholder communication."
+        },
+        {
+            "candidate_name": "Kavya Menon",
+            "resume_path": "resumes/resume_014.pdf",
+            "match_score": 34.76,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "production engineer with 5 years of experience. Background in mechanical engineering with practical experience delivering team and business outcomes.",
+                "Kavya Menon Production Engineer | candidate14@example.test | +91-90000-10014 | India",
+                "Production Engineer | Sample Organization | 2021–2026 Improved assembly-line throughput by 12% using line balancing and corrective action tracking."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "B.E. Mechanical Engineering, 2020",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Recruitment or talent acquisition",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "recruitment",
+                            "talent acquisition"
+                        ]
+                    },
+                    {
+                        "requirement": "Candidate sourcing",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "candidate sourcing",
+                            "sourcing candidates",
+                            "talent sourcing",
+                            "sourced candidates",
+                            "sourcing"
+                        ]
+                    },
+                    {
+                        "requirement": "Interview coordination",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "interview coordination",
+                            "coordinated interviews",
+                            "interview scheduling",
+                            "scheduling interviews"
+                        ]
+                    },
+                    {
+                        "requirement": "ATS or recruitment tracking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "ats",
+                            "applicant tracking system",
+                            "recruitment tracking",
+                            "applicant tracking"
+                        ]
+                    },
+                    {
+                        "requirement": "Stakeholder communication",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "stakeholder communication",
+                            "stakeholder management",
+                            "communication",
+                            "communicated with"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 41.27,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 41.27%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Recruitment or talent acquisition, Candidate sourcing, Interview coordination, ATS or recruitment tracking, Stakeholder communication."
+        },
+        {
+            "candidate_name": "Diya Sharma",
+            "resume_path": "resumes/resume_002.pdf",
+            "match_score": 34.53,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "backend engineer with 5 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Diya Sharma Backend Engineer | candidate02@example.test | +91-90000-10002 | India",
+                "Backend Engineer | Sample Organization | 2021–2026 Led backend delivery for payment services handling 1M monthly transactions. Introduced caching and monitoring."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "MCA, 2019",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Recruitment or talent acquisition",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "recruitment",
+                            "talent acquisition"
+                        ]
+                    },
+                    {
+                        "requirement": "Candidate sourcing",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "candidate sourcing",
+                            "sourcing candidates",
+                            "talent sourcing",
+                            "sourced candidates",
+                            "sourcing"
+                        ]
+                    },
+                    {
+                        "requirement": "Interview coordination",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "interview coordination",
+                            "coordinated interviews",
+                            "interview scheduling",
+                            "scheduling interviews"
+                        ]
+                    },
+                    {
+                        "requirement": "ATS or recruitment tracking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "ats",
+                            "applicant tracking system",
+                            "recruitment tracking",
+                            "applicant tracking"
+                        ]
+                    },
+                    {
+                        "requirement": "Stakeholder communication",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "stakeholder communication",
+                            "stakeholder management",
+                            "communication",
+                            "communicated with"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 40.89,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 40.89%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Recruitment or talent acquisition, Candidate sourcing, Interview coordination, ATS or recruitment tracking, Stakeholder communication."
+        },
+        {
+            "candidate_name": "Zoya Mirza",
+            "resume_path": "resumes/resume_025.pdf",
+            "match_score": 34.12,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "electrical engineer with 3 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "Zoya Mirza Electrical Engineer | candidate25@example.test | +91-90000-10025 | India",
+                "Electrical Engineer | Sample Organization | 2023–2026 Supported control panel commissioning and maintenance documentation for industrial facilities."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 3.0,
+            "education": "B.Tech Electrical Engineering, 2022",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 3.0,
+                "required_skills": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Recruitment or talent acquisition",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "recruitment",
+                            "talent acquisition"
+                        ]
+                    },
+                    {
+                        "requirement": "Candidate sourcing",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "candidate sourcing",
+                            "sourcing candidates",
+                            "talent sourcing",
+                            "sourced candidates",
+                            "sourcing"
+                        ]
+                    },
+                    {
+                        "requirement": "Interview coordination",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "interview coordination",
+                            "coordinated interviews",
+                            "interview scheduling",
+                            "scheduling interviews"
+                        ]
+                    },
+                    {
+                        "requirement": "ATS or recruitment tracking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "ats",
+                            "applicant tracking system",
+                            "recruitment tracking",
+                            "applicant tracking"
+                        ]
+                    },
+                    {
+                        "requirement": "Stakeholder communication",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "stakeholder communication",
+                            "stakeholder management",
+                            "communication",
+                            "communicated with"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 40.2,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 40.20%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Recruitment or talent acquisition, Candidate sourcing, Interview coordination, ATS or recruitment tracking, Stakeholder communication."
+        },
+        {
+            "candidate_name": "Ayesha Farooq",
+            "resume_path": "resumes/resume_022.pdf",
+            "match_score": 33.88,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "learning and development manager with 7 years of experience. Background in human resources with practical experience delivering team and business outcomes.",
+                "L&D;, Training Needs Analysis, LMS, Facilitation, Performance Management",
+                "Learning and Development Manager | Sample Organization | 2020–2026 Designed manager development programs and measured training effectiveness across departments."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 7.0,
+            "education": "MBA Organizational Behaviour, 2018",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 7.0,
+                "required_skills": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Recruitment or talent acquisition",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "recruitment",
+                            "talent acquisition"
+                        ]
+                    },
+                    {
+                        "requirement": "Candidate sourcing",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "candidate sourcing",
+                            "sourcing candidates",
+                            "talent sourcing",
+                            "sourced candidates",
+                            "sourcing"
+                        ]
+                    },
+                    {
+                        "requirement": "Interview coordination",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "interview coordination",
+                            "coordinated interviews",
+                            "interview scheduling",
+                            "scheduling interviews"
+                        ]
+                    },
+                    {
+                        "requirement": "ATS or recruitment tracking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "ats",
+                            "applicant tracking system",
+                            "recruitment tracking",
+                            "applicant tracking"
+                        ]
+                    },
+                    {
+                        "requirement": "Stakeholder communication",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "stakeholder communication",
+                            "stakeholder management",
+                            "communication",
+                            "communicated with"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 39.79,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 39.79%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Recruitment or talent acquisition, Candidate sourcing, Interview coordination, ATS or recruitment tracking, Stakeholder communication."
+        },
+        {
+            "candidate_name": "Esha Roy",
+            "resume_path": "resumes/resume_027.pdf",
+            "match_score": 33.24,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "ux designer with 5 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "UX Designer | Sample Organization | 2021–2026 Led usability studies and redesigned onboarding flows, improving task completion in user tests.",
+                "Esha Roy UX Designer | candidate27@example.test | +91-90000-10027 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "B.Des Interaction Design, 2020",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Recruitment or talent acquisition",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "recruitment",
+                            "talent acquisition"
+                        ]
+                    },
+                    {
+                        "requirement": "Candidate sourcing",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "candidate sourcing",
+                            "sourcing candidates",
+                            "talent sourcing",
+                            "sourced candidates",
+                            "sourcing"
+                        ]
+                    },
+                    {
+                        "requirement": "Interview coordination",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "interview coordination",
+                            "coordinated interviews",
+                            "interview scheduling",
+                            "scheduling interviews"
+                        ]
+                    },
+                    {
+                        "requirement": "ATS or recruitment tracking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "ats",
+                            "applicant tracking system",
+                            "recruitment tracking",
+                            "applicant tracking"
+                        ]
+                    },
+                    {
+                        "requirement": "Stakeholder communication",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "stakeholder communication",
+                            "stakeholder management",
+                            "communication",
+                            "communicated with"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 38.74,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 38.74%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Recruitment or talent acquisition, Candidate sourcing, Interview coordination, ATS or recruitment tracking, Stakeholder communication."
+        },
+        {
+            "candidate_name": "Fatima Noor",
+            "resume_path": "resumes/resume_029.pdf",
+            "match_score": 32.83,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "embedded systems engineer with 2 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "Fatima Noor Embedded Systems Engineer | candidate29@example.test | +91-90000-10029 | India",
+                "Embedded Systems Engineer | Sample Organization | 2024–2026 Developed firmware modules and tested sensor interfaces on microcontroller evaluation boards."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 2.0,
+            "education": "B.Tech Electronics, 2023",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication",
+                    "3+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 3,
+                "candidate_experience": 2.0,
+                "required_skills": [
+                    "Recruitment or talent acquisition",
+                    "Candidate sourcing",
+                    "Interview coordination",
+                    "ATS or recruitment tracking",
+                    "Stakeholder communication"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Recruitment or talent acquisition",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "recruitment",
+                            "talent acquisition"
+                        ]
+                    },
+                    {
+                        "requirement": "Candidate sourcing",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "candidate sourcing",
+                            "sourcing candidates",
+                            "talent sourcing",
+                            "sourced candidates",
+                            "sourcing"
+                        ]
+                    },
+                    {
+                        "requirement": "Interview coordination",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "interview coordination",
+                            "coordinated interviews",
+                            "interview scheduling",
+                            "scheduling interviews"
+                        ]
+                    },
+                    {
+                        "requirement": "ATS or recruitment tracking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "ats",
+                            "applicant tracking system",
+                            "recruitment tracking",
+                            "applicant tracking"
+                        ]
+                    },
+                    {
+                        "requirement": "Stakeholder communication",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "stakeholder communication",
+                            "stakeholder management",
+                            "communication",
+                            "communicated with"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 43.6,
+                "keyword": 0.0,
+                "experience": 66.67
+            },
+            "reasoning": "Semantic score: 43.60%. Keyword score: 0.00%. Experience score: 66.67%. Matched skills: None. Mandatory check: Missing: Recruitment or talent acquisition, Candidate sourcing, Interview coordination, ATS or recruitment tracking, Stakeholder communication, 3+ years of experience required."
+        }
+    ],
+    "qualified_matches": [],
+    "latency_seconds": 0.2455
+}

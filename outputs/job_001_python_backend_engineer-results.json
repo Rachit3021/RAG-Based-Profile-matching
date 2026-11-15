@@ -1,0 +1,1281 @@
+{
+    "job_description": "job_001_python_backend_engineer.txt",
+    "detected_required_experience": 5,
+    "detected_must_have_skills": [
+        "building rest apis",
+        "built rest apis",
+        "deployed",
+        "deploying",
+        "deployment",
+        "django",
+        "docker",
+        "fastapi",
+        "flask",
+        "mysql",
+        "postgresql",
+        "production deployment",
+        "production environment",
+        "python",
+        "rest api",
+        "rest apis",
+        "restful api",
+        "sql"
+    ],
+    "detected_mandatory_requirements": [
+        {
+            "label": "Python programming",
+            "any": [
+                "python"
+            ]
+        },
+        {
+            "label": "REST API development",
+            "any": [
+                "rest api",
+                "restful api",
+                "rest apis",
+                "building rest apis",
+                "built rest apis"
+            ]
+        },
+        {
+            "label": "API framework (Django, Flask or FastAPI)",
+            "any": [
+                "django",
+                "flask",
+                "fastapi"
+            ]
+        },
+        {
+            "label": "Relational database",
+            "any": [
+                "postgresql",
+                "mysql",
+                "sql"
+            ]
+        },
+        {
+            "label": "Docker",
+            "any": [
+                "docker"
+            ]
+        },
+        {
+            "label": "Production deployment",
+            "any": [
+                "production deployment",
+                "deployment",
+                "deployed",
+                "deploying",
+                "production environment"
+            ]
+        }
+    ],
+    "detected_job_skills": [
+        "aws",
+        "django",
+        "docker",
+        "fastapi",
+        "flask",
+        "postgresql",
+        "python",
+        "redis",
+        "rest api"
+    ],
+    "retrieved_candidates": 30,
+    "qualified_candidates_in_top_10": 0,
+    "top_matches": [
+        {
+            "candidate_name": "Aarav Mehta",
+            "resume_path": "resumes/resume_001.pdf",
+            "match_score": 59.0,
+            "matched_skills": [
+                "django",
+                "docker",
+                "fastapi",
+                "postgresql",
+                "python",
+                "rest api"
+            ],
+            "relevant_excerpts": [
+                "python developer with 3 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Python Developer | Sample Organization | 2023–2026 Built REST APIs for a logistics platform; improved endpoint response time by 28%. Developed background workers and automated tests.",
+                "Python, Django, FastAPI, PostgreSQL, REST APIs, Git, Docker"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 3.0,
+            "education": "B.Tech Computer Science, 2022",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Production deployment",
+                    "5+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 5,
+                "candidate_experience": 3.0,
+                "required_skills": [
+                    "Python programming",
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "matched_required_skills": [
+                    "built rest apis",
+                    "django",
+                    "docker",
+                    "fastapi",
+                    "postgresql",
+                    "python",
+                    "rest api",
+                    "rest apis"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "REST API development",
+                        "passed": true,
+                        "matched_evidence": [
+                            "rest api",
+                            "rest apis",
+                            "built rest apis"
+                        ],
+                        "alternatives": [
+                            "rest api",
+                            "restful api",
+                            "rest apis",
+                            "building rest apis",
+                            "built rest apis"
+                        ]
+                    },
+                    {
+                        "requirement": "API framework (Django, Flask or FastAPI)",
+                        "passed": true,
+                        "matched_evidence": [
+                            "django",
+                            "fastapi"
+                        ],
+                        "alternatives": [
+                            "django",
+                            "flask",
+                            "fastapi"
+                        ]
+                    },
+                    {
+                        "requirement": "Relational database",
+                        "passed": true,
+                        "matched_evidence": [
+                            "postgresql"
+                        ],
+                        "alternatives": [
+                            "postgresql",
+                            "mysql",
+                            "sql"
+                        ]
+                    },
+                    {
+                        "requirement": "Docker",
+                        "passed": true,
+                        "matched_evidence": [
+                            "docker"
+                        ],
+                        "alternatives": [
+                            "docker"
+                        ]
+                    },
+                    {
+                        "requirement": "Production deployment",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "production deployment",
+                            "deployment",
+                            "deployed",
+                            "deploying",
+                            "production environment"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 66.58,
+                "keyword": 66.67,
+                "experience": 60.0
+            },
+            "reasoning": "Semantic score: 66.58%. Keyword score: 66.67%. Experience score: 60.00%. Matched skills: django, docker, fastapi, postgresql, python, rest api. Mandatory check: Missing: Production deployment, 5+ years of experience required."
+        },
+        {
+            "candidate_name": "Diya Sharma",
+            "resume_path": "resumes/resume_002.pdf",
+            "match_score": 59.0,
+            "matched_skills": [
+                "aws",
+                "django",
+                "docker",
+                "flask",
+                "postgresql",
+                "python",
+                "redis"
+            ],
+            "relevant_excerpts": [
+                "Python, Flask, Django, Redis, PostgreSQL, AWS, Docker, CI/CD",
+                "backend engineer with 5 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Backend Engineer | Sample Organization | 2021–2026 Led backend delivery for payment services handling 1M monthly transactions. Introduced caching and monitoring."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "MCA, 2019",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "REST API development",
+                    "Production deployment"
+                ],
+                "experience_passed": true,
+                "required_experience": 5,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Python programming",
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "matched_required_skills": [
+                    "django",
+                    "docker",
+                    "flask",
+                    "postgresql",
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "REST API development",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "rest api",
+                            "restful api",
+                            "rest apis",
+                            "building rest apis",
+                            "built rest apis"
+                        ]
+                    },
+                    {
+                        "requirement": "API framework (Django, Flask or FastAPI)",
+                        "passed": true,
+                        "matched_evidence": [
+                            "django",
+                            "flask"
+                        ],
+                        "alternatives": [
+                            "django",
+                            "flask",
+                            "fastapi"
+                        ]
+                    },
+                    {
+                        "requirement": "Relational database",
+                        "passed": true,
+                        "matched_evidence": [
+                            "postgresql"
+                        ],
+                        "alternatives": [
+                            "postgresql",
+                            "mysql",
+                            "sql"
+                        ]
+                    },
+                    {
+                        "requirement": "Docker",
+                        "passed": true,
+                        "matched_evidence": [
+                            "docker"
+                        ],
+                        "alternatives": [
+                            "docker"
+                        ]
+                    },
+                    {
+                        "requirement": "Production deployment",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "production deployment",
+                            "deployment",
+                            "deployed",
+                            "deploying",
+                            "production environment"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 65.44,
+                "keyword": 77.78,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 65.44%. Keyword score: 77.78%. Experience score: 100.00%. Matched skills: aws, django, docker, flask, postgresql, python, redis. Mandatory check: Missing: REST API development, Production deployment."
+        },
+        {
+            "candidate_name": "Rohan Gupta",
+            "resume_path": "resumes/resume_005.pdf",
+            "match_score": 58.23,
+            "matched_skills": [
+                "aws",
+                "fastapi",
+                "postgresql",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "Python, FastAPI, AWS, Kubernetes, Terraform, PostgreSQL, Linux",
+                "cloud software engineer with 6 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Cloud Software Engineer | Sample Organization | 2020–2026 Designed cloud-native services and deployment pipelines; mentored three developers."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 6.0,
+            "education": "B.Tech Computer Engineering, 2019",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "REST API development",
+                    "Docker"
+                ],
+                "experience_passed": true,
+                "required_experience": 5,
+                "candidate_experience": 6.0,
+                "required_skills": [
+                    "Python programming",
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "matched_required_skills": [
+                    "deployment",
+                    "fastapi",
+                    "postgresql",
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "REST API development",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "rest api",
+                            "restful api",
+                            "rest apis",
+                            "building rest apis",
+                            "built rest apis"
+                        ]
+                    },
+                    {
+                        "requirement": "API framework (Django, Flask or FastAPI)",
+                        "passed": true,
+                        "matched_evidence": [
+                            "fastapi"
+                        ],
+                        "alternatives": [
+                            "django",
+                            "flask",
+                            "fastapi"
+                        ]
+                    },
+                    {
+                        "requirement": "Relational database",
+                        "passed": true,
+                        "matched_evidence": [
+                            "postgresql"
+                        ],
+                        "alternatives": [
+                            "postgresql",
+                            "mysql",
+                            "sql"
+                        ]
+                    },
+                    {
+                        "requirement": "Docker",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "docker"
+                        ]
+                    },
+                    {
+                        "requirement": "Production deployment",
+                        "passed": true,
+                        "matched_evidence": [
+                            "deployment"
+                        ],
+                        "alternatives": [
+                            "production deployment",
+                            "deployment",
+                            "deployed",
+                            "deploying",
+                            "production environment"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 58.17,
+                "keyword": 44.44,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 58.17%. Keyword score: 44.44%. Experience score: 100.00%. Matched skills: aws, fastapi, postgresql, python. Mandatory check: Missing: REST API development, Docker."
+        },
+        {
+            "candidate_name": "Ishita Rao",
+            "resume_path": "resumes/resume_004.pdf",
+            "match_score": 56.77,
+            "matched_skills": [
+                "django",
+                "docker",
+                "python",
+                "rest api"
+            ],
+            "relevant_excerpts": [
+                "Python, Django, React, JavaScript, MySQL, REST APIs, Docker",
+                "Full Stack Developer | Sample Organization | 2022–2026 Delivered customer portals and integrated React interfaces with Django services; maintained unit tests.",
+                "full stack developer with 4 years of experience. Background in software engineering with practical experience delivering team and business outcomes."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 4.0,
+            "education": "B.Tech Information Technology, 2021",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Production deployment",
+                    "5+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 5,
+                "candidate_experience": 4.0,
+                "required_skills": [
+                    "Python programming",
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "matched_required_skills": [
+                    "django",
+                    "docker",
+                    "mysql",
+                    "python",
+                    "rest api",
+                    "rest apis"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "REST API development",
+                        "passed": true,
+                        "matched_evidence": [
+                            "rest api",
+                            "rest apis"
+                        ],
+                        "alternatives": [
+                            "rest api",
+                            "restful api",
+                            "rest apis",
+                            "building rest apis",
+                            "built rest apis"
+                        ]
+                    },
+                    {
+                        "requirement": "API framework (Django, Flask or FastAPI)",
+                        "passed": true,
+                        "matched_evidence": [
+                            "django"
+                        ],
+                        "alternatives": [
+                            "django",
+                            "flask",
+                            "fastapi"
+                        ]
+                    },
+                    {
+                        "requirement": "Relational database",
+                        "passed": true,
+                        "matched_evidence": [
+                            "mysql"
+                        ],
+                        "alternatives": [
+                            "postgresql",
+                            "mysql",
+                            "sql"
+                        ]
+                    },
+                    {
+                        "requirement": "Docker",
+                        "passed": true,
+                        "matched_evidence": [
+                            "docker"
+                        ],
+                        "alternatives": [
+                            "docker"
+                        ]
+                    },
+                    {
+                        "requirement": "Production deployment",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "production deployment",
+                            "deployment",
+                            "deployed",
+                            "deploying",
+                            "production environment"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 59.06,
+                "keyword": 44.44,
+                "experience": 80.0
+            },
+            "reasoning": "Semantic score: 59.06%. Keyword score: 44.44%. Experience score: 80.00%. Matched skills: django, docker, python, rest api. Mandatory check: Missing: Production deployment, 5+ years of experience required."
+        },
+        {
+            "candidate_name": "Kabir Nair",
+            "resume_path": "resumes/resume_003.pdf",
+            "match_score": 47.95,
+            "matched_skills": [
+                "flask",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "junior python developer with 1 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Junior Python Developer | Sample Organization | 2025–2026 Created internal reporting scripts and a Flask inventory prototype during internship and first role.",
+                "Python, SQL, Flask, Pandas, Git, Linux, HTML, CSS"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 1.0,
+            "education": "B.Sc. Computer Science, 2024",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "REST API development",
+                    "Docker",
+                    "Production deployment",
+                    "5+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 5,
+                "candidate_experience": 1.0,
+                "required_skills": [
+                    "Python programming",
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "matched_required_skills": [
+                    "flask",
+                    "python",
+                    "sql"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "REST API development",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "rest api",
+                            "restful api",
+                            "rest apis",
+                            "building rest apis",
+                            "built rest apis"
+                        ]
+                    },
+                    {
+                        "requirement": "API framework (Django, Flask or FastAPI)",
+                        "passed": true,
+                        "matched_evidence": [
+                            "flask"
+                        ],
+                        "alternatives": [
+                            "django",
+                            "flask",
+                            "fastapi"
+                        ]
+                    },
+                    {
+                        "requirement": "Relational database",
+                        "passed": true,
+                        "matched_evidence": [
+                            "sql"
+                        ],
+                        "alternatives": [
+                            "postgresql",
+                            "mysql",
+                            "sql"
+                        ]
+                    },
+                    {
+                        "requirement": "Docker",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "docker"
+                        ]
+                    },
+                    {
+                        "requirement": "Production deployment",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "production deployment",
+                            "deployment",
+                            "deployed",
+                            "deploying",
+                            "production environment"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 65.47,
+                "keyword": 22.22,
+                "experience": 20.0
+            },
+            "reasoning": "Semantic score: 65.47%. Keyword score: 22.22%. Experience score: 20.00%. Matched skills: flask, python. Mandatory check: Missing: REST API development, Docker, Production deployment, 5+ years of experience required."
+        },
+        {
+            "candidate_name": "Sana Khan",
+            "resume_path": "resumes/resume_008.pdf",
+            "match_score": 46.33,
+            "matched_skills": [
+                "aws",
+                "docker",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "Python, TensorFlow, PyTorch, NLP, MLflow, Docker, AWS",
+                "machine learning engineer with 5 years of experience. Background in data science with practical experience delivering team and business outcomes.",
+                "Machine Learning Engineer | Sample Organization | 2021–2026 Deployed NLP classification models and monitored production drift; optimized inference latency."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "M.S. Computer Science, 2020",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database"
+                ],
+                "experience_passed": true,
+                "required_experience": 5,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Python programming",
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "matched_required_skills": [
+                    "deployed",
+                    "docker",
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "REST API development",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "rest api",
+                            "restful api",
+                            "rest apis",
+                            "building rest apis",
+                            "built rest apis"
+                        ]
+                    },
+                    {
+                        "requirement": "API framework (Django, Flask or FastAPI)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "django",
+                            "flask",
+                            "fastapi"
+                        ]
+                    },
+                    {
+                        "requirement": "Relational database",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "postgresql",
+                            "mysql",
+                            "sql"
+                        ]
+                    },
+                    {
+                        "requirement": "Docker",
+                        "passed": true,
+                        "matched_evidence": [
+                            "docker"
+                        ],
+                        "alternatives": [
+                            "docker"
+                        ]
+                    },
+                    {
+                        "requirement": "Production deployment",
+                        "passed": true,
+                        "matched_evidence": [
+                            "deployed"
+                        ],
+                        "alternatives": [
+                            "production deployment",
+                            "deployment",
+                            "deployed",
+                            "deploying",
+                            "production environment"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 43.88,
+                "keyword": 33.33,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 43.88%. Keyword score: 33.33%. Experience score: 100.00%. Matched skills: aws, docker, python. Mandatory check: Missing: REST API development, API framework (Django, Flask or FastAPI), Relational database."
+        },
+        {
+            "candidate_name": "Neil Thomas",
+            "resume_path": "resumes/resume_011.pdf",
+            "match_score": 35.7,
+            "matched_skills": [
+                "python"
+            ],
+            "relevant_excerpts": [
+                "senior data scientist with 8 years of experience. Background in data science with practical experience delivering team and business outcomes.",
+                "Python, R, SQL, Machine Learning, XGBoost, Spark, Airflow",
+                "Senior Data Scientist | Sample Organization | 2020–2026 Led experimentation and forecasting projects; managed model governance and stakeholder reviews."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 8.0,
+            "education": "Ph.D. Statistics, 2017",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "experience_passed": true,
+                "required_experience": 5,
+                "candidate_experience": 8.0,
+                "required_skills": [
+                    "Python programming",
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "matched_required_skills": [
+                    "python",
+                    "sql"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "REST API development",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "rest api",
+                            "restful api",
+                            "rest apis",
+                            "building rest apis",
+                            "built rest apis"
+                        ]
+                    },
+                    {
+                        "requirement": "API framework (Django, Flask or FastAPI)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "django",
+                            "flask",
+                            "fastapi"
+                        ]
+                    },
+                    {
+                        "requirement": "Relational database",
+                        "passed": true,
+                        "matched_evidence": [
+                            "sql"
+                        ],
+                        "alternatives": [
+                            "postgresql",
+                            "mysql",
+                            "sql"
+                        ]
+                    },
+                    {
+                        "requirement": "Docker",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "docker"
+                        ]
+                    },
+                    {
+                        "requirement": "Production deployment",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "production deployment",
+                            "deployment",
+                            "deployed",
+                            "deploying",
+                            "production environment"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 37.28,
+                "keyword": 11.11,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 37.28%. Keyword score: 11.11%. Experience score: 100.00%. Matched skills: python. Mandatory check: Missing: REST API development, API framework (Django, Flask or FastAPI), Docker, Production deployment."
+        },
+        {
+            "candidate_name": "Pranav Kulkarni",
+            "resume_path": "resumes/resume_026.pdf",
+            "match_score": 34.05,
+            "matched_skills": [
+                "python"
+            ],
+            "relevant_excerpts": [
+                "SIEM, Splunk, Python, Linux, Incident Response, Vulnerability Assessment",
+                "cybersecurity analyst with 4 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "Cybersecurity Analyst | Sample Organization | 2022–2026 Investigated security alerts, documented incidents and helped improve detection rules."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 4.0,
+            "education": "B.Tech Information Security, 2021",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment",
+                    "5+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 5,
+                "candidate_experience": 4.0,
+                "required_skills": [
+                    "Python programming",
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "matched_required_skills": [
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "REST API development",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "rest api",
+                            "restful api",
+                            "rest apis",
+                            "building rest apis",
+                            "built rest apis"
+                        ]
+                    },
+                    {
+                        "requirement": "API framework (Django, Flask or FastAPI)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "django",
+                            "flask",
+                            "fastapi"
+                        ]
+                    },
+                    {
+                        "requirement": "Relational database",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "postgresql",
+                            "mysql",
+                            "sql"
+                        ]
+                    },
+                    {
+                        "requirement": "Docker",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "docker"
+                        ]
+                    },
+                    {
+                        "requirement": "Production deployment",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "production deployment",
+                            "deployment",
+                            "deployed",
+                            "deploying",
+                            "production environment"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 37.86,
+                "keyword": 11.11,
+                "experience": 80.0
+            },
+            "reasoning": "Semantic score: 37.86%. Keyword score: 11.11%. Experience score: 80.00%. Matched skills: python. Mandatory check: Missing: REST API development, API framework (Django, Flask or FastAPI), Relational database, Docker, Production deployment, 5+ years of experience required."
+        },
+        {
+            "candidate_name": "Mira Iyer",
+            "resume_path": "resumes/resume_006.pdf",
+            "match_score": 33.86,
+            "matched_skills": [
+                "python"
+            ],
+            "relevant_excerpts": [
+                "Python, Selenium, PyTest, SQL, Jenkins, GitHub Actions",
+                "automation engineer with 2 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Automation Engineer | Sample Organization | 2024–2026 Automated regression testing for web applications and reduced manual test effort by 35%."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 2.0,
+            "education": "B.E. Computer Science, 2023",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Docker",
+                    "Production deployment",
+                    "5+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 5,
+                "candidate_experience": 2.0,
+                "required_skills": [
+                    "Python programming",
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "matched_required_skills": [
+                    "python",
+                    "sql"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "REST API development",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "rest api",
+                            "restful api",
+                            "rest apis",
+                            "building rest apis",
+                            "built rest apis"
+                        ]
+                    },
+                    {
+                        "requirement": "API framework (Django, Flask or FastAPI)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "django",
+                            "flask",
+                            "fastapi"
+                        ]
+                    },
+                    {
+                        "requirement": "Relational database",
+                        "passed": true,
+                        "matched_evidence": [
+                            "sql"
+                        ],
+                        "alternatives": [
+                            "postgresql",
+                            "mysql",
+                            "sql"
+                        ]
+                    },
+                    {
+                        "requirement": "Docker",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "docker"
+                        ]
+                    },
+                    {
+                        "requirement": "Production deployment",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "production deployment",
+                            "deployment",
+                            "deployed",
+                            "deploying",
+                            "production environment"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 44.21,
+                "keyword": 11.11,
+                "experience": 40.0
+            },
+            "reasoning": "Semantic score: 44.21%. Keyword score: 11.11%. Experience score: 40.00%. Matched skills: python. Mandatory check: Missing: REST API development, API framework (Django, Flask or FastAPI), Docker, Production deployment, 5+ years of experience required."
+        },
+        {
+            "candidate_name": "Esha Roy",
+            "resume_path": "resumes/resume_027.pdf",
+            "match_score": 33.83,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "ux designer with 5 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "UX Designer | Sample Organization | 2021–2026 Led usability studies and redesigned onboarding flows, improving task completion in user tests.",
+                "Figma, Prototyping, User Research, Usability Testing, Design Systems"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "B.Des Interaction Design, 2020",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Python programming",
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "experience_passed": true,
+                "required_experience": 5,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Python programming",
+                    "REST API development",
+                    "API framework (Django, Flask or FastAPI)",
+                    "Relational database",
+                    "Docker",
+                    "Production deployment"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Python programming",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "REST API development",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "rest api",
+                            "restful api",
+                            "rest apis",
+                            "building rest apis",
+                            "built rest apis"
+                        ]
+                    },
+                    {
+                        "requirement": "API framework (Django, Flask or FastAPI)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "django",
+                            "flask",
+                            "fastapi"
+                        ]
+                    },
+                    {
+                        "requirement": "Relational database",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "postgresql",
+                            "mysql",
+                            "sql"
+                        ]
+                    },
+                    {
+                        "requirement": "Docker",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "docker"
+                        ]
+                    },
+                    {
+                        "requirement": "Production deployment",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "production deployment",
+                            "deployment",
+                            "deployed",
+                            "deploying",
+                            "production environment"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 39.72,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 39.72%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Python programming, REST API development, API framework (Django, Flask or FastAPI), Relational database, Docker, Production deployment."
+        }
+    ],
+    "qualified_matches": [],
+    "latency_seconds": 0.3486
+}

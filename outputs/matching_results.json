@@ -1,0 +1,1176 @@
+{
+    "job_description": "job_005_cybersecurity_analyst.txt",
+    "detected_required_experience": 3,
+    "detected_must_have_skills": [
+        "alert investigation",
+        "cybersecurity",
+        "incident response",
+        "information security",
+        "investigated security alerts",
+        "linux",
+        "network administration",
+        "networking",
+        "security alert investigation",
+        "security information and event management",
+        "security monitoring",
+        "security operations",
+        "siem",
+        "tcp/ip"
+    ],
+    "detected_mandatory_requirements": [
+        {
+            "label": "Cybersecurity or security operations",
+            "any": [
+                "cybersecurity",
+                "security operations",
+                "information security"
+            ]
+        },
+        {
+            "label": "SIEM monitoring",
+            "any": [
+                "siem",
+                "security information and event management"
+            ]
+        },
+        {
+            "label": "Security alert investigation",
+            "any": [
+                "alert investigation",
+                "security alert investigation",
+                "investigated security alerts",
+                "security monitoring"
+            ]
+        },
+        {
+            "label": "Incident response",
+            "any": [
+                "incident response"
+            ]
+        },
+        {
+            "label": "Linux",
+            "any": [
+                "linux"
+            ]
+        },
+        {
+            "label": "Networking",
+            "any": [
+                "networking",
+                "network administration",
+                "tcp/ip"
+            ]
+        }
+    ],
+    "detected_job_skills": [
+        "cybersecurity",
+        "incident response",
+        "linux",
+        "networking",
+        "python",
+        "siem",
+        "splunk",
+        "vulnerability assessment"
+    ],
+    "retrieved_candidates": 30,
+    "qualified_candidates_in_top_10": 0,
+    "top_matches": [
+        {
+            "candidate_name": "Pranav Kulkarni",
+            "resume_path": "resumes/resume_026.pdf",
+            "match_score": 59.0,
+            "matched_skills": [
+                "cybersecurity",
+                "incident response",
+                "linux",
+                "python",
+                "siem",
+                "splunk",
+                "vulnerability assessment"
+            ],
+            "relevant_excerpts": [
+                "Cybersecurity Analyst | Sample Organization | 2022–2026 Investigated security alerts, documented incidents and helped improve detection rules.",
+                "cybersecurity analyst with 4 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "SIEM, Splunk, Python, Linux, Incident Response, Vulnerability Assessment"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 4.0,
+            "education": "B.Tech Information Security, 2021",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Networking"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 4.0,
+                "required_skills": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "matched_required_skills": [
+                    "cybersecurity",
+                    "incident response",
+                    "information security",
+                    "investigated security alerts",
+                    "linux",
+                    "siem"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Cybersecurity or security operations",
+                        "passed": true,
+                        "matched_evidence": [
+                            "cybersecurity",
+                            "information security"
+                        ],
+                        "alternatives": [
+                            "cybersecurity",
+                            "security operations",
+                            "information security"
+                        ]
+                    },
+                    {
+                        "requirement": "SIEM monitoring",
+                        "passed": true,
+                        "matched_evidence": [
+                            "siem"
+                        ],
+                        "alternatives": [
+                            "siem",
+                            "security information and event management"
+                        ]
+                    },
+                    {
+                        "requirement": "Security alert investigation",
+                        "passed": true,
+                        "matched_evidence": [
+                            "investigated security alerts"
+                        ],
+                        "alternatives": [
+                            "alert investigation",
+                            "security alert investigation",
+                            "investigated security alerts",
+                            "security monitoring"
+                        ]
+                    },
+                    {
+                        "requirement": "Incident response",
+                        "passed": true,
+                        "matched_evidence": [
+                            "incident response"
+                        ],
+                        "alternatives": [
+                            "incident response"
+                        ]
+                    },
+                    {
+                        "requirement": "Linux",
+                        "passed": true,
+                        "matched_evidence": [
+                            "linux"
+                        ],
+                        "alternatives": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "requirement": "Networking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "networking",
+                            "network administration",
+                            "tcp/ip"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 71.95,
+                "keyword": 87.5,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 71.95%. Keyword score: 87.50%. Experience score: 100.00%. Matched skills: cybersecurity, incident response, linux, python, siem, splunk, vulnerability assessment. Mandatory check: Missing: Networking."
+        },
+        {
+            "candidate_name": "Aarav Mehta",
+            "resume_path": "resumes/resume_001.pdf",
+            "match_score": 42.41,
+            "matched_skills": [
+                "python"
+            ],
+            "relevant_excerpts": [
+                "python developer with 3 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Python Developer | Sample Organization | 2023–2026 Built REST APIs for a logistics platform; improved endpoint response time by 28%. Developed background workers and automated tests.",
+                "Aarav Mehta Python Developer | candidate01@example.test | +91-90000-10001 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 3.0,
+            "education": "B.Tech Computer Science, 2022",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 3.0,
+                "required_skills": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Cybersecurity or security operations",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "cybersecurity",
+                            "security operations",
+                            "information security"
+                        ]
+                    },
+                    {
+                        "requirement": "SIEM monitoring",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "siem",
+                            "security information and event management"
+                        ]
+                    },
+                    {
+                        "requirement": "Security alert investigation",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "alert investigation",
+                            "security alert investigation",
+                            "investigated security alerts",
+                            "security monitoring"
+                        ]
+                    },
+                    {
+                        "requirement": "Incident response",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "incident response"
+                        ]
+                    },
+                    {
+                        "requirement": "Linux",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "requirement": "Networking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "networking",
+                            "network administration",
+                            "tcp/ip"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 47.76,
+                "keyword": 12.5,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 47.76%. Keyword score: 12.50%. Experience score: 100.00%. Matched skills: python. Mandatory check: Missing: Cybersecurity or security operations, SIEM monitoring, Security alert investigation, Incident response, Linux, Networking."
+        },
+        {
+            "candidate_name": "Yash Sethi",
+            "resume_path": "resumes/resume_028.pdf",
+            "match_score": 42.39,
+            "matched_skills": [
+                "incident response",
+                "linux"
+            ],
+            "relevant_excerpts": [
+                "network engineer with 6 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "Network Engineer | Sample Organization | 2020–2026 Maintained enterprise network availability and supported firewall changes and incident response.",
+                "Yash Sethi Network Engineer | candidate28@example.test | +91-90000-10028 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 6.0,
+            "education": "B.E. Electronics, 2019",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Networking"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 6.0,
+                "required_skills": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "matched_required_skills": [
+                    "incident response",
+                    "linux"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Cybersecurity or security operations",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "cybersecurity",
+                            "security operations",
+                            "information security"
+                        ]
+                    },
+                    {
+                        "requirement": "SIEM monitoring",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "siem",
+                            "security information and event management"
+                        ]
+                    },
+                    {
+                        "requirement": "Security alert investigation",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "alert investigation",
+                            "security alert investigation",
+                            "investigated security alerts",
+                            "security monitoring"
+                        ]
+                    },
+                    {
+                        "requirement": "Incident response",
+                        "passed": true,
+                        "matched_evidence": [
+                            "incident response"
+                        ],
+                        "alternatives": [
+                            "incident response"
+                        ]
+                    },
+                    {
+                        "requirement": "Linux",
+                        "passed": true,
+                        "matched_evidence": [
+                            "linux"
+                        ],
+                        "alternatives": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "requirement": "Networking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "networking",
+                            "network administration",
+                            "tcp/ip"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 41.49,
+                "keyword": 25.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 41.49%. Keyword score: 25.00%. Experience score: 100.00%. Matched skills: incident response, linux. Mandatory check: Missing: Cybersecurity or security operations, SIEM monitoring, Security alert investigation, Networking."
+        },
+        {
+            "candidate_name": "Rohan Gupta",
+            "resume_path": "resumes/resume_005.pdf",
+            "match_score": 41.28,
+            "matched_skills": [
+                "linux",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "cloud software engineer with 6 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Rohan Gupta Cloud Software Engineer | candidate05@example.test | +91-90000-10005 | India",
+                "Cloud Software Engineer | Sample Organization | 2020–2026 Designed cloud-native services and deployment pipelines; mentored three developers."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 6.0,
+            "education": "B.Tech Computer Engineering, 2019",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Networking"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 6.0,
+                "required_skills": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "matched_required_skills": [
+                    "linux"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Cybersecurity or security operations",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "cybersecurity",
+                            "security operations",
+                            "information security"
+                        ]
+                    },
+                    {
+                        "requirement": "SIEM monitoring",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "siem",
+                            "security information and event management"
+                        ]
+                    },
+                    {
+                        "requirement": "Security alert investigation",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "alert investigation",
+                            "security alert investigation",
+                            "investigated security alerts",
+                            "security monitoring"
+                        ]
+                    },
+                    {
+                        "requirement": "Incident response",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "incident response"
+                        ]
+                    },
+                    {
+                        "requirement": "Linux",
+                        "passed": true,
+                        "matched_evidence": [
+                            "linux"
+                        ],
+                        "alternatives": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "requirement": "Networking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "networking",
+                            "network administration",
+                            "tcp/ip"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 39.63,
+                "keyword": 25.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 39.63%. Keyword score: 25.00%. Experience score: 100.00%. Matched skills: linux, python. Mandatory check: Missing: Cybersecurity or security operations, SIEM monitoring, Security alert investigation, Incident response, Networking."
+        },
+        {
+            "candidate_name": "Ishita Rao",
+            "resume_path": "resumes/resume_004.pdf",
+            "match_score": 39.31,
+            "matched_skills": [
+                "python"
+            ],
+            "relevant_excerpts": [
+                "full stack developer with 4 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Full Stack Developer | Sample Organization | 2022–2026 Delivered customer portals and integrated React interfaces with Django services; maintained unit tests.",
+                "Ishita Rao Full Stack Developer | candidate04@example.test | +91-90000-10004 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 4.0,
+            "education": "B.Tech Information Technology, 2021",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 4.0,
+                "required_skills": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Cybersecurity or security operations",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "cybersecurity",
+                            "security operations",
+                            "information security"
+                        ]
+                    },
+                    {
+                        "requirement": "SIEM monitoring",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "siem",
+                            "security information and event management"
+                        ]
+                    },
+                    {
+                        "requirement": "Security alert investigation",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "alert investigation",
+                            "security alert investigation",
+                            "investigated security alerts",
+                            "security monitoring"
+                        ]
+                    },
+                    {
+                        "requirement": "Incident response",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "incident response"
+                        ]
+                    },
+                    {
+                        "requirement": "Linux",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "requirement": "Networking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "networking",
+                            "network administration",
+                            "tcp/ip"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 42.6,
+                "keyword": 12.5,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 42.60%. Keyword score: 12.50%. Experience score: 100.00%. Matched skills: python. Mandatory check: Missing: Cybersecurity or security operations, SIEM monitoring, Security alert investigation, Incident response, Linux, Networking."
+        },
+        {
+            "candidate_name": "Om Prakash",
+            "resume_path": "resumes/resume_030.pdf",
+            "match_score": 38.25,
+            "matched_skills": [
+                "linux",
+                "networking",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "technical support engineer with 1 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "Linux, SQL, Networking, Troubleshooting, Python Basics, Ticketing",
+                "Technical Support Engineer | Sample Organization | 2025–2026 Resolved application support tickets and wrote knowledge-base articles for recurring issues."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 1.0,
+            "education": "B.Sc. Information Technology, 2024",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "3+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 3,
+                "candidate_experience": 1.0,
+                "required_skills": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "matched_required_skills": [
+                    "linux",
+                    "networking"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Cybersecurity or security operations",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "cybersecurity",
+                            "security operations",
+                            "information security"
+                        ]
+                    },
+                    {
+                        "requirement": "SIEM monitoring",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "siem",
+                            "security information and event management"
+                        ]
+                    },
+                    {
+                        "requirement": "Security alert investigation",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "alert investigation",
+                            "security alert investigation",
+                            "investigated security alerts",
+                            "security monitoring"
+                        ]
+                    },
+                    {
+                        "requirement": "Incident response",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "incident response"
+                        ]
+                    },
+                    {
+                        "requirement": "Linux",
+                        "passed": true,
+                        "matched_evidence": [
+                            "linux"
+                        ],
+                        "alternatives": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "requirement": "Networking",
+                        "passed": true,
+                        "matched_evidence": [
+                            "networking"
+                        ],
+                        "alternatives": [
+                            "networking",
+                            "network administration",
+                            "tcp/ip"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 39.45,
+                "keyword": 37.5,
+                "experience": 33.33
+            },
+            "reasoning": "Semantic score: 39.45%. Keyword score: 37.50%. Experience score: 33.33%. Matched skills: linux, networking, python. Mandatory check: Missing: Cybersecurity or security operations, SIEM monitoring, Security alert investigation, Incident response, 3+ years of experience required."
+        },
+        {
+            "candidate_name": "Vivaan Patel",
+            "resume_path": "resumes/resume_009.pdf",
+            "match_score": 38.02,
+            "matched_skills": [
+                "python"
+            ],
+            "relevant_excerpts": [
+                "data analyst with 2 years of experience. Background in data science with practical experience delivering team and business outcomes.",
+                "Data Analyst | Sample Organization | 2024–2026 Built sales dashboards and recurring data quality checks; translated business questions into reports.",
+                "Vivaan Patel Data Analyst | candidate09@example.test | +91-90000-10009 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 2.0,
+            "education": "B.Com, 2023",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking",
+                    "3+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 3,
+                "candidate_experience": 2.0,
+                "required_skills": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Cybersecurity or security operations",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "cybersecurity",
+                            "security operations",
+                            "information security"
+                        ]
+                    },
+                    {
+                        "requirement": "SIEM monitoring",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "siem",
+                            "security information and event management"
+                        ]
+                    },
+                    {
+                        "requirement": "Security alert investigation",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "alert investigation",
+                            "security alert investigation",
+                            "investigated security alerts",
+                            "security monitoring"
+                        ]
+                    },
+                    {
+                        "requirement": "Incident response",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "incident response"
+                        ]
+                    },
+                    {
+                        "requirement": "Linux",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "requirement": "Networking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "networking",
+                            "network administration",
+                            "tcp/ip"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 46.0,
+                "keyword": 12.5,
+                "experience": 66.67
+            },
+            "reasoning": "Semantic score: 46.00%. Keyword score: 12.50%. Experience score: 66.67%. Matched skills: python. Mandatory check: Missing: Cybersecurity or security operations, SIEM monitoring, Security alert investigation, Incident response, Linux, Networking, 3+ years of experience required."
+        },
+        {
+            "candidate_name": "Aditya Verma",
+            "resume_path": "resumes/resume_007.pdf",
+            "match_score": 37.88,
+            "matched_skills": [
+                "python"
+            ],
+            "relevant_excerpts": [
+                "data scientist with 4 years of experience. Background in data science with practical experience delivering team and business outcomes.",
+                "Python, Machine Learning, Scikit-learn, Pandas, NumPy, SQL, Statistics",
+                "Aditya Verma Data Scientist | candidate07@example.test | +91-90000-10007 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 4.0,
+            "education": "M.Tech Data Science, 2021",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 4.0,
+                "required_skills": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Cybersecurity or security operations",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "cybersecurity",
+                            "security operations",
+                            "information security"
+                        ]
+                    },
+                    {
+                        "requirement": "SIEM monitoring",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "siem",
+                            "security information and event management"
+                        ]
+                    },
+                    {
+                        "requirement": "Security alert investigation",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "alert investigation",
+                            "security alert investigation",
+                            "investigated security alerts",
+                            "security monitoring"
+                        ]
+                    },
+                    {
+                        "requirement": "Incident response",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "incident response"
+                        ]
+                    },
+                    {
+                        "requirement": "Linux",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "requirement": "Networking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "networking",
+                            "network administration",
+                            "tcp/ip"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 40.22,
+                "keyword": 12.5,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 40.22%. Keyword score: 12.50%. Experience score: 100.00%. Matched skills: python. Mandatory check: Missing: Cybersecurity or security operations, SIEM monitoring, Security alert investigation, Incident response, Linux, Networking."
+        },
+        {
+            "candidate_name": "Kabir Nair",
+            "resume_path": "resumes/resume_003.pdf",
+            "match_score": 37.78,
+            "matched_skills": [
+                "linux",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "junior python developer with 1 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Junior Python Developer | Sample Organization | 2025–2026 Created internal reporting scripts and a Flask inventory prototype during internship and first role.",
+                "Kabir Nair Junior Python Developer | candidate03@example.test | +91-90000-10003 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 1.0,
+            "education": "B.Sc. Computer Science, 2024",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Networking",
+                    "3+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 3,
+                "candidate_experience": 1.0,
+                "required_skills": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "matched_required_skills": [
+                    "linux"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Cybersecurity or security operations",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "cybersecurity",
+                            "security operations",
+                            "information security"
+                        ]
+                    },
+                    {
+                        "requirement": "SIEM monitoring",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "siem",
+                            "security information and event management"
+                        ]
+                    },
+                    {
+                        "requirement": "Security alert investigation",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "alert investigation",
+                            "security alert investigation",
+                            "investigated security alerts",
+                            "security monitoring"
+                        ]
+                    },
+                    {
+                        "requirement": "Incident response",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "incident response"
+                        ]
+                    },
+                    {
+                        "requirement": "Linux",
+                        "passed": true,
+                        "matched_evidence": [
+                            "linux"
+                        ],
+                        "alternatives": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "requirement": "Networking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "networking",
+                            "network administration",
+                            "tcp/ip"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 44.92,
+                "keyword": 25.0,
+                "experience": 33.33
+            },
+            "reasoning": "Semantic score: 44.92%. Keyword score: 25.00%. Experience score: 33.33%. Matched skills: linux, python. Mandatory check: Missing: Cybersecurity or security operations, SIEM monitoring, Security alert investigation, Incident response, Networking, 3+ years of experience required."
+        },
+        {
+            "candidate_name": "Mira Iyer",
+            "resume_path": "resumes/resume_006.pdf",
+            "match_score": 37.34,
+            "matched_skills": [
+                "python"
+            ],
+            "relevant_excerpts": [
+                "automation engineer with 2 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Mira Iyer Automation Engineer | candidate06@example.test | +91-90000-10006 | India",
+                "Automation Engineer | Sample Organization | 2024–2026 Automated regression testing for web applications and reduced manual test effort by 35%."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 2.0,
+            "education": "B.E. Computer Science, 2023",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking",
+                    "3+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 3,
+                "candidate_experience": 2.0,
+                "required_skills": [
+                    "Cybersecurity or security operations",
+                    "SIEM monitoring",
+                    "Security alert investigation",
+                    "Incident response",
+                    "Linux",
+                    "Networking"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Cybersecurity or security operations",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "cybersecurity",
+                            "security operations",
+                            "information security"
+                        ]
+                    },
+                    {
+                        "requirement": "SIEM monitoring",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "siem",
+                            "security information and event management"
+                        ]
+                    },
+                    {
+                        "requirement": "Security alert investigation",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "alert investigation",
+                            "security alert investigation",
+                            "investigated security alerts",
+                            "security monitoring"
+                        ]
+                    },
+                    {
+                        "requirement": "Incident response",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "incident response"
+                        ]
+                    },
+                    {
+                        "requirement": "Linux",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "linux"
+                        ]
+                    },
+                    {
+                        "requirement": "Networking",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "networking",
+                            "network administration",
+                            "tcp/ip"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 44.88,
+                "keyword": 12.5,
+                "experience": 66.67
+            },
+            "reasoning": "Semantic score: 44.88%. Keyword score: 12.50%. Experience score: 66.67%. Matched skills: python. Mandatory check: Missing: Cybersecurity or security operations, SIEM monitoring, Security alert investigation, Incident response, Linux, Networking, 3+ years of experience required."
+        }
+    ],
+    "qualified_matches": [],
+    "latency_seconds": 0.2463
+}

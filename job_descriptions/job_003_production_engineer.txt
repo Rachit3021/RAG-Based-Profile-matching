@@ -1,0 +1,8 @@
+Role: Production Engineer
+Must-have requirements:
+- 3+ years in manufacturing or production engineering
+- Lean manufacturing or Six Sigma experience
+- Root cause analysis and continuous improvement
+- Engineering degree or equivalent technical qualification
+Preferred: SAP, 5S, Kaizen, line balancing, automotive experience.
+Responsibilities: Improve throughput, reduce defects and support safe production operations.

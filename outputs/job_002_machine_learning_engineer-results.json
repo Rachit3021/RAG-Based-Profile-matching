@@ -1,0 +1,1105 @@
+{
+    "job_description": "job_002_machine_learning_engineer.txt",
+    "detected_required_experience": 3,
+    "detected_must_have_skills": [
+        "deployed ml models",
+        "deployed models",
+        "deployed nlp classification models",
+        "deploying models",
+        "machine learning",
+        "maintaining models",
+        "ml model deployment",
+        "ml model maintenance",
+        "model deployment",
+        "model monitoring",
+        "monitored production drift",
+        "python",
+        "pytorch",
+        "tensorflow"
+    ],
+    "detected_mandatory_requirements": [
+        {
+            "label": "Machine learning",
+            "any": [
+                "machine learning"
+            ]
+        },
+        {
+            "label": "Python programming",
+            "any": [
+                "python"
+            ]
+        },
+        {
+            "label": "Deep learning framework (PyTorch or TensorFlow)",
+            "any": [
+                "pytorch",
+                "tensorflow"
+            ]
+        },
+        {
+            "label": "ML model deployment or maintenance",
+            "any": [
+                "model deployment",
+                "deploying models",
+                "deployed models",
+                "maintaining models",
+                "model monitoring",
+                "ml model deployment",
+                "ml model maintenance",
+                "deployed nlp classification models",
+                "deployed ml models",
+                "monitored production drift"
+            ]
+        }
+    ],
+    "detected_job_skills": [
+        "aws",
+        "docker",
+        "machine learning",
+        "python",
+        "pytorch",
+        "tensorflow"
+    ],
+    "retrieved_candidates": 30,
+    "qualified_candidates_in_top_10": 1,
+    "top_matches": [
+        {
+            "candidate_name": "Sana Khan",
+            "resume_path": "resumes/resume_008.pdf",
+            "match_score": 79.91,
+            "matched_skills": [
+                "aws",
+                "docker",
+                "machine learning",
+                "python",
+                "pytorch",
+                "tensorflow"
+            ],
+            "relevant_excerpts": [
+                "machine learning engineer with 5 years of experience. Background in data science with practical experience delivering team and business outcomes.",
+                "Python, TensorFlow, PyTorch, NLP, MLflow, Docker, AWS",
+                "Machine Learning Engineer | Sample Organization | 2021–2026 Deployed NLP classification models and monitored production drift; optimized inference latency."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "M.S. Computer Science, 2020",
+            "must_have_check": {
+                "passed": true,
+                "missing_requirements": [],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Machine learning",
+                    "Python programming",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "matched_required_skills": [
+                    "deployed nlp classification models",
+                    "machine learning",
+                    "monitored production drift",
+                    "python",
+                    "pytorch",
+                    "tensorflow"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Machine learning",
+                        "passed": true,
+                        "matched_evidence": [
+                            "machine learning"
+                        ],
+                        "alternatives": [
+                            "machine learning"
+                        ]
+                    },
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "Deep learning framework (PyTorch or TensorFlow)",
+                        "passed": true,
+                        "matched_evidence": [
+                            "pytorch",
+                            "tensorflow"
+                        ],
+                        "alternatives": [
+                            "pytorch",
+                            "tensorflow"
+                        ]
+                    },
+                    {
+                        "requirement": "ML model deployment or maintenance",
+                        "passed": true,
+                        "matched_evidence": [
+                            "deployed nlp classification models",
+                            "monitored production drift"
+                        ],
+                        "alternatives": [
+                            "model deployment",
+                            "deploying models",
+                            "deployed models",
+                            "maintaining models",
+                            "model monitoring",
+                            "ml model deployment",
+                            "ml model maintenance",
+                            "deployed nlp classification models",
+                            "deployed ml models",
+                            "monitored production drift"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 66.52,
+                "keyword": 100.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 66.52%. Keyword score: 100.00%. Experience score: 100.00%. Matched skills: aws, docker, machine learning, python, pytorch, tensorflow. Mandatory check: Passed all mandatory requirements."
+        },
+        {
+            "candidate_name": "Aarav Mehta",
+            "resume_path": "resumes/resume_001.pdf",
+            "match_score": 56.09,
+            "matched_skills": [
+                "docker",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "python developer with 3 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Python Developer | Sample Organization | 2023–2026 Built REST APIs for a logistics platform; improved endpoint response time by 28%. Developed background workers and automated tests.",
+                "Python, Django, FastAPI, PostgreSQL, REST APIs, Git, Docker"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 3.0,
+            "education": "B.Tech Computer Science, 2022",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Machine learning",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 3.0,
+                "required_skills": [
+                    "Machine learning",
+                    "Python programming",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "matched_required_skills": [
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Machine learning",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "machine learning"
+                        ]
+                    },
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "Deep learning framework (PyTorch or TensorFlow)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "pytorch",
+                            "tensorflow"
+                        ]
+                    },
+                    {
+                        "requirement": "ML model deployment or maintenance",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "model deployment",
+                            "deploying models",
+                            "deployed models",
+                            "maintaining models",
+                            "model monitoring",
+                            "ml model deployment",
+                            "ml model maintenance",
+                            "deployed nlp classification models",
+                            "deployed ml models",
+                            "monitored production drift"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 60.15,
+                "keyword": 33.33,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 60.15%. Keyword score: 33.33%. Experience score: 100.00%. Matched skills: docker, python. Mandatory check: Missing: Machine learning, Deep learning framework (PyTorch or TensorFlow), ML model deployment or maintenance."
+        },
+        {
+            "candidate_name": "Diya Sharma",
+            "resume_path": "resumes/resume_002.pdf",
+            "match_score": 53.59,
+            "matched_skills": [
+                "aws",
+                "docker",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "backend engineer with 5 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Python, Flask, Django, Redis, PostgreSQL, AWS, Docker, CI/CD",
+                "Diya Sharma Backend Engineer | candidate02@example.test | +91-90000-10002 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "MCA, 2019",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Machine learning",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Machine learning",
+                    "Python programming",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "matched_required_skills": [
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Machine learning",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "machine learning"
+                        ]
+                    },
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "Deep learning framework (PyTorch or TensorFlow)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "pytorch",
+                            "tensorflow"
+                        ]
+                    },
+                    {
+                        "requirement": "ML model deployment or maintenance",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "model deployment",
+                            "deploying models",
+                            "deployed models",
+                            "maintaining models",
+                            "model monitoring",
+                            "ml model deployment",
+                            "ml model maintenance",
+                            "deployed nlp classification models",
+                            "deployed ml models",
+                            "monitored production drift"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 47.65,
+                "keyword": 50.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 47.65%. Keyword score: 50.00%. Experience score: 100.00%. Matched skills: aws, docker, python. Mandatory check: Missing: Machine learning, Deep learning framework (PyTorch or TensorFlow), ML model deployment or maintenance."
+        },
+        {
+            "candidate_name": "Rohan Gupta",
+            "resume_path": "resumes/resume_005.pdf",
+            "match_score": 49.96,
+            "matched_skills": [
+                "aws",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "Cloud Software Engineer | Sample Organization | 2020–2026 Designed cloud-native services and deployment pipelines; mentored three developers.",
+                "cloud software engineer with 6 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Python, FastAPI, AWS, Kubernetes, Terraform, PostgreSQL, Linux"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 6.0,
+            "education": "B.Tech Computer Engineering, 2019",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Machine learning",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 6.0,
+                "required_skills": [
+                    "Machine learning",
+                    "Python programming",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "matched_required_skills": [
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Machine learning",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "machine learning"
+                        ]
+                    },
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "Deep learning framework (PyTorch or TensorFlow)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "pytorch",
+                            "tensorflow"
+                        ]
+                    },
+                    {
+                        "requirement": "ML model deployment or maintenance",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "model deployment",
+                            "deploying models",
+                            "deployed models",
+                            "maintaining models",
+                            "model monitoring",
+                            "ml model deployment",
+                            "ml model maintenance",
+                            "deployed nlp classification models",
+                            "deployed ml models",
+                            "monitored production drift"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 49.94,
+                "keyword": 33.33,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 49.94%. Keyword score: 33.33%. Experience score: 100.00%. Matched skills: aws, python. Mandatory check: Missing: Machine learning, Deep learning framework (PyTorch or TensorFlow), ML model deployment or maintenance."
+        },
+        {
+            "candidate_name": "Neil Thomas",
+            "resume_path": "resumes/resume_011.pdf",
+            "match_score": 48.22,
+            "matched_skills": [
+                "machine learning",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "Python, R, SQL, Machine Learning, XGBoost, Spark, Airflow",
+                "senior data scientist with 8 years of experience. Background in data science with practical experience delivering team and business outcomes.",
+                "Senior Data Scientist | Sample Organization | 2020–2026 Led experimentation and forecasting projects; managed model governance and stakeholder reviews."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 8.0,
+            "education": "Ph.D. Statistics, 2017",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 8.0,
+                "required_skills": [
+                    "Machine learning",
+                    "Python programming",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "matched_required_skills": [
+                    "machine learning",
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Machine learning",
+                        "passed": true,
+                        "matched_evidence": [
+                            "machine learning"
+                        ],
+                        "alternatives": [
+                            "machine learning"
+                        ]
+                    },
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "Deep learning framework (PyTorch or TensorFlow)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "pytorch",
+                            "tensorflow"
+                        ]
+                    },
+                    {
+                        "requirement": "ML model deployment or maintenance",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "model deployment",
+                            "deploying models",
+                            "deployed models",
+                            "maintaining models",
+                            "model monitoring",
+                            "ml model deployment",
+                            "ml model maintenance",
+                            "deployed nlp classification models",
+                            "deployed ml models",
+                            "monitored production drift"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 47.04,
+                "keyword": 33.33,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 47.04%. Keyword score: 33.33%. Experience score: 100.00%. Matched skills: machine learning, python. Mandatory check: Missing: Deep learning framework (PyTorch or TensorFlow), ML model deployment or maintenance."
+        },
+        {
+            "candidate_name": "Ishita Rao",
+            "resume_path": "resumes/resume_004.pdf",
+            "match_score": 46.53,
+            "matched_skills": [
+                "docker",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "full stack developer with 4 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Full Stack Developer | Sample Organization | 2022–2026 Delivered customer portals and integrated React interfaces with Django services; maintained unit tests.",
+                "Python, Django, React, JavaScript, MySQL, REST APIs, Docker"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 4.0,
+            "education": "B.Tech Information Technology, 2021",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Machine learning",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 4.0,
+                "required_skills": [
+                    "Machine learning",
+                    "Python programming",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "matched_required_skills": [
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Machine learning",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "machine learning"
+                        ]
+                    },
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "Deep learning framework (PyTorch or TensorFlow)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "pytorch",
+                            "tensorflow"
+                        ]
+                    },
+                    {
+                        "requirement": "ML model deployment or maintenance",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "model deployment",
+                            "deploying models",
+                            "deployed models",
+                            "maintaining models",
+                            "model monitoring",
+                            "ml model deployment",
+                            "ml model maintenance",
+                            "deployed nlp classification models",
+                            "deployed ml models",
+                            "monitored production drift"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 44.22,
+                "keyword": 33.33,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 44.22%. Keyword score: 33.33%. Experience score: 100.00%. Matched skills: docker, python. Mandatory check: Missing: Machine learning, Deep learning framework (PyTorch or TensorFlow), ML model deployment or maintenance."
+        },
+        {
+            "candidate_name": "Aditya Verma",
+            "resume_path": "resumes/resume_007.pdf",
+            "match_score": 46.42,
+            "matched_skills": [
+                "machine learning",
+                "python"
+            ],
+            "relevant_excerpts": [
+                "data scientist with 4 years of experience. Background in data science with practical experience delivering team and business outcomes.",
+                "Python, Machine Learning, Scikit-learn, Pandas, NumPy, SQL, Statistics",
+                "Data Scientist | Sample Organization | 2022–2026 Built churn prediction and customer segmentation models; presented model findings to product teams."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 4.0,
+            "education": "M.Tech Data Science, 2021",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 4.0,
+                "required_skills": [
+                    "Machine learning",
+                    "Python programming",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "matched_required_skills": [
+                    "machine learning",
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Machine learning",
+                        "passed": true,
+                        "matched_evidence": [
+                            "machine learning"
+                        ],
+                        "alternatives": [
+                            "machine learning"
+                        ]
+                    },
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "Deep learning framework (PyTorch or TensorFlow)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "pytorch",
+                            "tensorflow"
+                        ]
+                    },
+                    {
+                        "requirement": "ML model deployment or maintenance",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "model deployment",
+                            "deploying models",
+                            "deployed models",
+                            "maintaining models",
+                            "model monitoring",
+                            "ml model deployment",
+                            "ml model maintenance",
+                            "deployed nlp classification models",
+                            "deployed ml models",
+                            "monitored production drift"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 44.04,
+                "keyword": 33.33,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 44.04%. Keyword score: 33.33%. Experience score: 100.00%. Matched skills: machine learning, python. Mandatory check: Missing: Deep learning framework (PyTorch or TensorFlow), ML model deployment or maintenance."
+        },
+        {
+            "candidate_name": "Mira Iyer",
+            "resume_path": "resumes/resume_006.pdf",
+            "match_score": 42.56,
+            "matched_skills": [
+                "python"
+            ],
+            "relevant_excerpts": [
+                "automation engineer with 2 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Automation Engineer | Sample Organization | 2024–2026 Automated regression testing for web applications and reduced manual test effort by 35%.",
+                "Python, Selenium, PyTest, SQL, Jenkins, GitHub Actions"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 2.0,
+            "education": "B.E. Computer Science, 2023",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Machine learning",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance",
+                    "3+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 3,
+                "candidate_experience": 2.0,
+                "required_skills": [
+                    "Machine learning",
+                    "Python programming",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "matched_required_skills": [
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Machine learning",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "machine learning"
+                        ]
+                    },
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "Deep learning framework (PyTorch or TensorFlow)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "pytorch",
+                            "tensorflow"
+                        ]
+                    },
+                    {
+                        "requirement": "ML model deployment or maintenance",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "model deployment",
+                            "deploying models",
+                            "deployed models",
+                            "maintaining models",
+                            "model monitoring",
+                            "ml model deployment",
+                            "ml model maintenance",
+                            "deployed nlp classification models",
+                            "deployed ml models",
+                            "monitored production drift"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 51.5,
+                "keyword": 16.67,
+                "experience": 66.67
+            },
+            "reasoning": "Semantic score: 51.50%. Keyword score: 16.67%. Experience score: 66.67%. Matched skills: python. Mandatory check: Missing: Machine learning, Deep learning framework (PyTorch or TensorFlow), ML model deployment or maintenance, 3+ years of experience required."
+        },
+        {
+            "candidate_name": "Kabir Nair",
+            "resume_path": "resumes/resume_003.pdf",
+            "match_score": 42.32,
+            "matched_skills": [
+                "python"
+            ],
+            "relevant_excerpts": [
+                "junior python developer with 1 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Junior Python Developer | Sample Organization | 2025–2026 Created internal reporting scripts and a Flask inventory prototype during internship and first role.",
+                "Kabir Nair Junior Python Developer | candidate03@example.test | +91-90000-10003 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 1.0,
+            "education": "B.Sc. Computer Science, 2024",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Machine learning",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance",
+                    "3+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 3,
+                "candidate_experience": 1.0,
+                "required_skills": [
+                    "Machine learning",
+                    "Python programming",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "matched_required_skills": [
+                    "python"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Machine learning",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "machine learning"
+                        ]
+                    },
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "Deep learning framework (PyTorch or TensorFlow)",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "pytorch",
+                            "tensorflow"
+                        ]
+                    },
+                    {
+                        "requirement": "ML model deployment or maintenance",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "model deployment",
+                            "deploying models",
+                            "deployed models",
+                            "maintaining models",
+                            "model monitoring",
+                            "ml model deployment",
+                            "ml model maintenance",
+                            "deployed nlp classification models",
+                            "deployed ml models",
+                            "monitored production drift"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 56.64,
+                "keyword": 16.67,
+                "experience": 33.33
+            },
+            "reasoning": "Semantic score: 56.64%. Keyword score: 16.67%. Experience score: 33.33%. Matched skills: python. Mandatory check: Missing: Machine learning, Deep learning framework (PyTorch or TensorFlow), ML model deployment or maintenance, 3+ years of experience required."
+        },
+        {
+            "candidate_name": "Ananya Bose",
+            "resume_path": "resumes/resume_010.pdf",
+            "match_score": 41.85,
+            "matched_skills": [
+                "python",
+                "pytorch"
+            ],
+            "relevant_excerpts": [
+                "nlp research associate with 3 years of experience. Background in data science with practical experience delivering team and business outcomes.",
+                "Python, NLP, Transformers, Hugging Face, PyTorch, spaCy",
+                "M.Tech Artificial Intelligence, 2022 PROJECTS & ADDITIONAL INFORMATION Project work and achievements are representative synthetic examples created for RAG retrieval and ranking experiments. References and personal contact details are fictional."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 3.0,
+            "education": "M.Tech Artificial Intelligence, 2022",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Machine learning",
+                    "ML model deployment or maintenance"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 3.0,
+                "required_skills": [
+                    "Machine learning",
+                    "Python programming",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "matched_required_skills": [
+                    "python",
+                    "pytorch"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Machine learning",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "machine learning"
+                        ]
+                    },
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "Deep learning framework (PyTorch or TensorFlow)",
+                        "passed": true,
+                        "matched_evidence": [
+                            "pytorch"
+                        ],
+                        "alternatives": [
+                            "pytorch",
+                            "tensorflow"
+                        ]
+                    },
+                    {
+                        "requirement": "ML model deployment or maintenance",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "model deployment",
+                            "deploying models",
+                            "deployed models",
+                            "maintaining models",
+                            "model monitoring",
+                            "ml model deployment",
+                            "ml model maintenance",
+                            "deployed nlp classification models",
+                            "deployed ml models",
+                            "monitored production drift"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 36.42,
+                "keyword": 33.33,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 36.42%. Keyword score: 33.33%. Experience score: 100.00%. Matched skills: python, pytorch. Mandatory check: Missing: Machine learning, ML model deployment or maintenance."
+        }
+    ],
+    "qualified_matches": [
+        {
+            "candidate_name": "Sana Khan",
+            "resume_path": "resumes/resume_008.pdf",
+            "match_score": 79.91,
+            "matched_skills": [
+                "aws",
+                "docker",
+                "machine learning",
+                "python",
+                "pytorch",
+                "tensorflow"
+            ],
+            "relevant_excerpts": [
+                "machine learning engineer with 5 years of experience. Background in data science with practical experience delivering team and business outcomes.",
+                "Python, TensorFlow, PyTorch, NLP, MLflow, Docker, AWS",
+                "Machine Learning Engineer | Sample Organization | 2021–2026 Deployed NLP classification models and monitored production drift; optimized inference latency."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "M.S. Computer Science, 2020",
+            "must_have_check": {
+                "passed": true,
+                "missing_requirements": [],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Machine learning",
+                    "Python programming",
+                    "Deep learning framework (PyTorch or TensorFlow)",
+                    "ML model deployment or maintenance"
+                ],
+                "matched_required_skills": [
+                    "deployed nlp classification models",
+                    "machine learning",
+                    "monitored production drift",
+                    "python",
+                    "pytorch",
+                    "tensorflow"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Machine learning",
+                        "passed": true,
+                        "matched_evidence": [
+                            "machine learning"
+                        ],
+                        "alternatives": [
+                            "machine learning"
+                        ]
+                    },
+                    {
+                        "requirement": "Python programming",
+                        "passed": true,
+                        "matched_evidence": [
+                            "python"
+                        ],
+                        "alternatives": [
+                            "python"
+                        ]
+                    },
+                    {
+                        "requirement": "Deep learning framework (PyTorch or TensorFlow)",
+                        "passed": true,
+                        "matched_evidence": [
+                            "pytorch",
+                            "tensorflow"
+                        ],
+                        "alternatives": [
+                            "pytorch",
+                            "tensorflow"
+                        ]
+                    },
+                    {
+                        "requirement": "ML model deployment or maintenance",
+                        "passed": true,
+                        "matched_evidence": [
+                            "deployed nlp classification models",
+                            "monitored production drift"
+                        ],
+                        "alternatives": [
+                            "model deployment",
+                            "deploying models",
+                            "deployed models",
+                            "maintaining models",
+                            "model monitoring",
+                            "ml model deployment",
+                            "ml model maintenance",
+                            "deployed nlp classification models",
+                            "deployed ml models",
+                            "monitored production drift"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 66.52,
+                "keyword": 100.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 66.52%. Keyword score: 100.00%. Experience score: 100.00%. Matched skills: aws, docker, machine learning, python, pytorch, tensorflow. Mandatory check: Passed all mandatory requirements."
+        }
+    ],
+    "latency_seconds": 0.2836
+}

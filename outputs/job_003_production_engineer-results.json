@@ -1,0 +1,1217 @@
+{
+    "job_description": "job_003_production_engineer.txt",
+    "detected_required_experience": 3,
+    "detected_must_have_skills": [
+        "b.e.",
+        "b.tech",
+        "bachelor of engineering",
+        "bachelor's degree in engineering",
+        "btech",
+        "continuous improvement",
+        "engineering degree",
+        "industrial engineering",
+        "kaizen",
+        "lean manufacturing",
+        "manufacturing",
+        "mechanical engineering",
+        "production engineering",
+        "rca",
+        "root cause analysis",
+        "six sigma"
+    ],
+    "detected_mandatory_requirements": [
+        {
+            "label": "Manufacturing or production engineering",
+            "any": [
+                "manufacturing",
+                "production engineering"
+            ]
+        },
+        {
+            "label": "Lean manufacturing or Six Sigma",
+            "any": [
+                "lean manufacturing",
+                "six sigma"
+            ]
+        },
+        {
+            "label": "Root cause analysis",
+            "any": [
+                "root cause analysis",
+                "rca"
+            ]
+        },
+        {
+            "label": "Continuous improvement",
+            "any": [
+                "continuous improvement",
+                "kaizen"
+            ]
+        },
+        {
+            "label": "Engineering qualification",
+            "any": [
+                "b.tech",
+                "btech",
+                "b.e.",
+                "bachelor of engineering",
+                "bachelor's degree in engineering",
+                "engineering degree",
+                "mechanical engineering",
+                "industrial engineering",
+                "production engineering"
+            ]
+        }
+    ],
+    "detected_job_skills": [
+        "automotive",
+        "continuous improvement",
+        "lean manufacturing",
+        "manufacturing",
+        "root cause analysis",
+        "six sigma"
+    ],
+    "retrieved_candidates": 30,
+    "qualified_candidates_in_top_10": 1,
+    "top_matches": [
+        {
+            "candidate_name": "Kavya Menon",
+            "resume_path": "resumes/resume_014.pdf",
+            "match_score": 71.78,
+            "matched_skills": [
+                "lean manufacturing",
+                "manufacturing",
+                "root cause analysis",
+                "six sigma"
+            ],
+            "relevant_excerpts": [
+                "production engineer with 5 years of experience. Background in mechanical engineering with practical experience delivering team and business outcomes.",
+                "Lean Manufacturing, Six Sigma, 5S, Kaizen, SAP, Root Cause Analysis",
+                "Kavya Menon Production Engineer | candidate14@example.test | +91-90000-10014 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "B.E. Mechanical Engineering, 2020",
+            "must_have_check": {
+                "passed": true,
+                "missing_requirements": [],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "matched_required_skills": [
+                    "b.e.",
+                    "kaizen",
+                    "lean manufacturing",
+                    "manufacturing",
+                    "mechanical engineering",
+                    "root cause analysis",
+                    "six sigma"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Manufacturing or production engineering",
+                        "passed": true,
+                        "matched_evidence": [
+                            "manufacturing"
+                        ],
+                        "alternatives": [
+                            "manufacturing",
+                            "production engineering"
+                        ]
+                    },
+                    {
+                        "requirement": "Lean manufacturing or Six Sigma",
+                        "passed": true,
+                        "matched_evidence": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ],
+                        "alternatives": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ]
+                    },
+                    {
+                        "requirement": "Root cause analysis",
+                        "passed": true,
+                        "matched_evidence": [
+                            "root cause analysis"
+                        ],
+                        "alternatives": [
+                            "root cause analysis",
+                            "rca"
+                        ]
+                    },
+                    {
+                        "requirement": "Continuous improvement",
+                        "passed": true,
+                        "matched_evidence": [
+                            "kaizen"
+                        ],
+                        "alternatives": [
+                            "continuous improvement",
+                            "kaizen"
+                        ]
+                    },
+                    {
+                        "requirement": "Engineering qualification",
+                        "passed": true,
+                        "matched_evidence": [
+                            "b.e.",
+                            "mechanical engineering"
+                        ],
+                        "alternatives": [
+                            "b.tech",
+                            "btech",
+                            "b.e.",
+                            "bachelor of engineering",
+                            "bachelor's degree in engineering",
+                            "engineering degree",
+                            "mechanical engineering",
+                            "industrial engineering",
+                            "production engineering"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 69.63,
+                "keyword": 66.67,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 69.63%. Keyword score: 66.67%. Experience score: 100.00%. Matched skills: lean manufacturing, manufacturing, root cause analysis, six sigma. Mandatory check: Passed all mandatory requirements."
+        },
+        {
+            "candidate_name": "Arjun Singh",
+            "resume_path": "resumes/resume_013.pdf",
+            "match_score": 47.71,
+            "matched_skills": [
+                "manufacturing"
+            ],
+            "relevant_excerpts": [
+                "mechanical design engineer with 4 years of experience. Background in mechanical engineering with practical experience delivering team and business outcomes.",
+                "Arjun Singh Mechanical Design Engineer | candidate13@example.test | +91-90000-10013 | India",
+                "Mechanical Design Engineer | Sample Organization | 2022–2026 Designed sheet-metal assemblies and released manufacturing drawings; supported design reviews."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 4.0,
+            "education": "B.Tech Mechanical Engineering, 2021",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 4.0,
+                "required_skills": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "matched_required_skills": [
+                    "b.tech",
+                    "manufacturing",
+                    "mechanical engineering"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Manufacturing or production engineering",
+                        "passed": true,
+                        "matched_evidence": [
+                            "manufacturing"
+                        ],
+                        "alternatives": [
+                            "manufacturing",
+                            "production engineering"
+                        ]
+                    },
+                    {
+                        "requirement": "Lean manufacturing or Six Sigma",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ]
+                    },
+                    {
+                        "requirement": "Root cause analysis",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "root cause analysis",
+                            "rca"
+                        ]
+                    },
+                    {
+                        "requirement": "Continuous improvement",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "continuous improvement",
+                            "kaizen"
+                        ]
+                    },
+                    {
+                        "requirement": "Engineering qualification",
+                        "passed": true,
+                        "matched_evidence": [
+                            "b.tech",
+                            "mechanical engineering"
+                        ],
+                        "alternatives": [
+                            "b.tech",
+                            "btech",
+                            "b.e.",
+                            "bachelor of engineering",
+                            "bachelor's degree in engineering",
+                            "engineering degree",
+                            "mechanical engineering",
+                            "industrial engineering",
+                            "production engineering"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 54.52,
+                "keyword": 16.67,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 54.52%. Keyword score: 16.67%. Experience score: 100.00%. Matched skills: manufacturing. Mandatory check: Missing: Lean manufacturing or Six Sigma, Root cause analysis, Continuous improvement."
+        },
+        {
+            "candidate_name": "Tara Joshi",
+            "resume_path": "resumes/resume_018.pdf",
+            "match_score": 46.88,
+            "matched_skills": [
+                "manufacturing"
+            ],
+            "relevant_excerpts": [
+                "maintenance engineer with 2 years of experience. Background in mechanical engineering with practical experience delivering team and business outcomes.",
+                "Tara Joshi Maintenance Engineer | candidate18@example.test | +91-90000-10018 | India",
+                "Maintenance Engineer | Sample Organization | 2024–2026 Scheduled preventive maintenance and analyzed equipment downtime in a manufacturing plant."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 2.0,
+            "education": "Diploma Mechanical Engineering, 2023",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "3+ years of experience required"
+                ],
+                "experience_passed": false,
+                "required_experience": 3,
+                "candidate_experience": 2.0,
+                "required_skills": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "matched_required_skills": [
+                    "manufacturing",
+                    "mechanical engineering"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Manufacturing or production engineering",
+                        "passed": true,
+                        "matched_evidence": [
+                            "manufacturing"
+                        ],
+                        "alternatives": [
+                            "manufacturing",
+                            "production engineering"
+                        ]
+                    },
+                    {
+                        "requirement": "Lean manufacturing or Six Sigma",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ]
+                    },
+                    {
+                        "requirement": "Root cause analysis",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "root cause analysis",
+                            "rca"
+                        ]
+                    },
+                    {
+                        "requirement": "Continuous improvement",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "continuous improvement",
+                            "kaizen"
+                        ]
+                    },
+                    {
+                        "requirement": "Engineering qualification",
+                        "passed": true,
+                        "matched_evidence": [
+                            "mechanical engineering"
+                        ],
+                        "alternatives": [
+                            "b.tech",
+                            "btech",
+                            "b.e.",
+                            "bachelor of engineering",
+                            "bachelor's degree in engineering",
+                            "engineering degree",
+                            "mechanical engineering",
+                            "industrial engineering",
+                            "production engineering"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 58.69,
+                "keyword": 16.67,
+                "experience": 66.67
+            },
+            "reasoning": "Semantic score: 58.69%. Keyword score: 16.67%. Experience score: 66.67%. Matched skills: manufacturing. Mandatory check: Missing: Lean manufacturing or Six Sigma, Root cause analysis, Continuous improvement, 3+ years of experience required."
+        },
+        {
+            "candidate_name": "Nisha Kulkarni",
+            "resume_path": "resumes/resume_016.pdf",
+            "match_score": 45.46,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "quality engineer with 6 years of experience. Background in mechanical engineering with practical experience delivering team and business outcomes.",
+                "Nisha Kulkarni Quality Engineer | candidate16@example.test | +91-90000-10016 | India",
+                "Quality Engineer | Sample Organization | 2020–2026 Managed supplier quality issues and led 8D investigations; reduced repeat defects by 18%."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 6.0,
+            "education": "B.E. Mechanical Engineering, 2019",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 6.0,
+                "required_skills": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "matched_required_skills": [
+                    "b.e.",
+                    "mechanical engineering"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Manufacturing or production engineering",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "manufacturing",
+                            "production engineering"
+                        ]
+                    },
+                    {
+                        "requirement": "Lean manufacturing or Six Sigma",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ]
+                    },
+                    {
+                        "requirement": "Root cause analysis",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "root cause analysis",
+                            "rca"
+                        ]
+                    },
+                    {
+                        "requirement": "Continuous improvement",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "continuous improvement",
+                            "kaizen"
+                        ]
+                    },
+                    {
+                        "requirement": "Engineering qualification",
+                        "passed": true,
+                        "matched_evidence": [
+                            "b.e.",
+                            "mechanical engineering"
+                        ],
+                        "alternatives": [
+                            "b.tech",
+                            "btech",
+                            "b.e.",
+                            "bachelor of engineering",
+                            "bachelor's degree in engineering",
+                            "engineering degree",
+                            "mechanical engineering",
+                            "industrial engineering",
+                            "production engineering"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 59.1,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 59.10%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Manufacturing or production engineering, Lean manufacturing or Six Sigma, Root cause analysis, Continuous improvement."
+        },
+        {
+            "candidate_name": "Zoya Mirza",
+            "resume_path": "resumes/resume_025.pdf",
+            "match_score": 41.08,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "electrical engineer with 3 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "Electrical Engineer | Sample Organization | 2023–2026 Supported control panel commissioning and maintenance documentation for industrial facilities.",
+                "Zoya Mirza Electrical Engineer | candidate25@example.test | +91-90000-10025 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 3.0,
+            "education": "B.Tech Electrical Engineering, 2022",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 3.0,
+                "required_skills": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "matched_required_skills": [
+                    "b.tech"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Manufacturing or production engineering",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "manufacturing",
+                            "production engineering"
+                        ]
+                    },
+                    {
+                        "requirement": "Lean manufacturing or Six Sigma",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ]
+                    },
+                    {
+                        "requirement": "Root cause analysis",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "root cause analysis",
+                            "rca"
+                        ]
+                    },
+                    {
+                        "requirement": "Continuous improvement",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "continuous improvement",
+                            "kaizen"
+                        ]
+                    },
+                    {
+                        "requirement": "Engineering qualification",
+                        "passed": true,
+                        "matched_evidence": [
+                            "b.tech"
+                        ],
+                        "alternatives": [
+                            "b.tech",
+                            "btech",
+                            "b.e.",
+                            "bachelor of engineering",
+                            "bachelor's degree in engineering",
+                            "engineering degree",
+                            "mechanical engineering",
+                            "industrial engineering",
+                            "production engineering"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 51.8,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 51.80%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Manufacturing or production engineering, Lean manufacturing or Six Sigma, Root cause analysis, Continuous improvement."
+        },
+        {
+            "candidate_name": "Yash Sethi",
+            "resume_path": "resumes/resume_028.pdf",
+            "match_score": 40.02,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "network engineer with 6 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "Yash Sethi Network Engineer | candidate28@example.test | +91-90000-10028 | India",
+                "Network Engineer | Sample Organization | 2020–2026 Maintained enterprise network availability and supported firewall changes and incident response."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 6.0,
+            "education": "B.E. Electronics, 2019",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 6.0,
+                "required_skills": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "matched_required_skills": [
+                    "b.e."
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Manufacturing or production engineering",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "manufacturing",
+                            "production engineering"
+                        ]
+                    },
+                    {
+                        "requirement": "Lean manufacturing or Six Sigma",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ]
+                    },
+                    {
+                        "requirement": "Root cause analysis",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "root cause analysis",
+                            "rca"
+                        ]
+                    },
+                    {
+                        "requirement": "Continuous improvement",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "continuous improvement",
+                            "kaizen"
+                        ]
+                    },
+                    {
+                        "requirement": "Engineering qualification",
+                        "passed": true,
+                        "matched_evidence": [
+                            "b.e."
+                        ],
+                        "alternatives": [
+                            "b.tech",
+                            "btech",
+                            "b.e.",
+                            "bachelor of engineering",
+                            "bachelor's degree in engineering",
+                            "engineering degree",
+                            "mechanical engineering",
+                            "industrial engineering",
+                            "production engineering"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 50.04,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 50.04%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Manufacturing or production engineering, Lean manufacturing or Six Sigma, Root cause analysis, Continuous improvement."
+        },
+        {
+            "candidate_name": "Diya Sharma",
+            "resume_path": "resumes/resume_002.pdf",
+            "match_score": 39.6,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "backend engineer with 5 years of experience. Background in software engineering with practical experience delivering team and business outcomes.",
+                "Diya Sharma Backend Engineer | candidate02@example.test | +91-90000-10002 | India",
+                "Backend Engineer | Sample Organization | 2021–2026 Led backend delivery for payment services handling 1M monthly transactions. Introduced caching and monitoring."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "MCA, 2019",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Manufacturing or production engineering",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "manufacturing",
+                            "production engineering"
+                        ]
+                    },
+                    {
+                        "requirement": "Lean manufacturing or Six Sigma",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ]
+                    },
+                    {
+                        "requirement": "Root cause analysis",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "root cause analysis",
+                            "rca"
+                        ]
+                    },
+                    {
+                        "requirement": "Continuous improvement",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "continuous improvement",
+                            "kaizen"
+                        ]
+                    },
+                    {
+                        "requirement": "Engineering qualification",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "b.tech",
+                            "btech",
+                            "b.e.",
+                            "bachelor of engineering",
+                            "bachelor's degree in engineering",
+                            "engineering degree",
+                            "mechanical engineering",
+                            "industrial engineering",
+                            "production engineering"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 49.34,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 49.34%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Manufacturing or production engineering, Lean manufacturing or Six Sigma, Root cause analysis, Continuous improvement, Engineering qualification."
+        },
+        {
+            "candidate_name": "Esha Roy",
+            "resume_path": "resumes/resume_027.pdf",
+            "match_score": 38.8,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "ux designer with 5 years of experience. Background in other technical with practical experience delivering team and business outcomes.",
+                "Esha Roy UX Designer | candidate27@example.test | +91-90000-10027 | India",
+                "UX Designer | Sample Organization | 2021–2026 Led usability studies and redesigned onboarding flows, improving task completion in user tests."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "B.Des Interaction Design, 2020",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Manufacturing or production engineering",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "manufacturing",
+                            "production engineering"
+                        ]
+                    },
+                    {
+                        "requirement": "Lean manufacturing or Six Sigma",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ]
+                    },
+                    {
+                        "requirement": "Root cause analysis",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "root cause analysis",
+                            "rca"
+                        ]
+                    },
+                    {
+                        "requirement": "Continuous improvement",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "continuous improvement",
+                            "kaizen"
+                        ]
+                    },
+                    {
+                        "requirement": "Engineering qualification",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "b.tech",
+                            "btech",
+                            "b.e.",
+                            "bachelor of engineering",
+                            "bachelor's degree in engineering",
+                            "engineering degree",
+                            "mechanical engineering",
+                            "industrial engineering",
+                            "production engineering"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 48.0,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 48.00%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Manufacturing or production engineering, Lean manufacturing or Six Sigma, Root cause analysis, Continuous improvement, Engineering qualification."
+        },
+        {
+            "candidate_name": "Rahul Chatterjee",
+            "resume_path": "resumes/resume_017.pdf",
+            "match_score": 38.79,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "hvac engineer with 3 years of experience. Background in mechanical engineering with practical experience delivering team and business outcomes.",
+                "Rahul Chatterjee HVAC Engineer | candidate17@example.test | +91-90000-10017 | India",
+                "HVAC Engineer | Sample Organization | 2023–2026 Supported HVAC system sizing, validation tests and troubleshooting for commercial equipment."
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 3.0,
+            "education": "M.Tech Thermal Engineering, 2022",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 3.0,
+                "required_skills": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "matched_required_skills": [
+                    "mechanical engineering"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Manufacturing or production engineering",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "manufacturing",
+                            "production engineering"
+                        ]
+                    },
+                    {
+                        "requirement": "Lean manufacturing or Six Sigma",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ]
+                    },
+                    {
+                        "requirement": "Root cause analysis",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "root cause analysis",
+                            "rca"
+                        ]
+                    },
+                    {
+                        "requirement": "Continuous improvement",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "continuous improvement",
+                            "kaizen"
+                        ]
+                    },
+                    {
+                        "requirement": "Engineering qualification",
+                        "passed": true,
+                        "matched_evidence": [
+                            "mechanical engineering"
+                        ],
+                        "alternatives": [
+                            "b.tech",
+                            "btech",
+                            "b.e.",
+                            "bachelor of engineering",
+                            "bachelor's degree in engineering",
+                            "engineering degree",
+                            "mechanical engineering",
+                            "industrial engineering",
+                            "production engineering"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 47.98,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 47.98%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Manufacturing or production engineering, Lean manufacturing or Six Sigma, Root cause analysis, Continuous improvement."
+        },
+        {
+            "candidate_name": "Riya Kapoor",
+            "resume_path": "resumes/resume_020.pdf",
+            "match_score": 38.23,
+            "matched_skills": [],
+            "relevant_excerpts": [
+                "Talent Acquisition Specialist | Sample Organization | 2023–2026 Filled engineering and sales roles; improved candidate pipeline reporting and hiring coordination.",
+                "talent acquisition specialist with 3 years of experience. Background in human resources with practical experience delivering team and business outcomes.",
+                "Riya Kapoor Talent Acquisition Specialist | candidate20@example.test | +91-90000-10020 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 3.0,
+            "education": "MBA HR, 2022",
+            "must_have_check": {
+                "passed": false,
+                "missing_requirements": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 3.0,
+                "required_skills": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "matched_required_skills": [],
+                "requirement_details": [
+                    {
+                        "requirement": "Manufacturing or production engineering",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "manufacturing",
+                            "production engineering"
+                        ]
+                    },
+                    {
+                        "requirement": "Lean manufacturing or Six Sigma",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ]
+                    },
+                    {
+                        "requirement": "Root cause analysis",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "root cause analysis",
+                            "rca"
+                        ]
+                    },
+                    {
+                        "requirement": "Continuous improvement",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "continuous improvement",
+                            "kaizen"
+                        ]
+                    },
+                    {
+                        "requirement": "Engineering qualification",
+                        "passed": false,
+                        "matched_evidence": [],
+                        "alternatives": [
+                            "b.tech",
+                            "btech",
+                            "b.e.",
+                            "bachelor of engineering",
+                            "bachelor's degree in engineering",
+                            "engineering degree",
+                            "mechanical engineering",
+                            "industrial engineering",
+                            "production engineering"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 47.06,
+                "keyword": 0.0,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 47.06%. Keyword score: 0.00%. Experience score: 100.00%. Matched skills: None. Mandatory check: Missing: Manufacturing or production engineering, Lean manufacturing or Six Sigma, Root cause analysis, Continuous improvement, Engineering qualification."
+        }
+    ],
+    "qualified_matches": [
+        {
+            "candidate_name": "Kavya Menon",
+            "resume_path": "resumes/resume_014.pdf",
+            "match_score": 71.78,
+            "matched_skills": [
+                "lean manufacturing",
+                "manufacturing",
+                "root cause analysis",
+                "six sigma"
+            ],
+            "relevant_excerpts": [
+                "production engineer with 5 years of experience. Background in mechanical engineering with practical experience delivering team and business outcomes.",
+                "Lean Manufacturing, Six Sigma, 5S, Kaizen, SAP, Root Cause Analysis",
+                "Kavya Menon Production Engineer | candidate14@example.test | +91-90000-10014 | India"
+            ],
+            "matched_sections": [
+                "experience"
+            ],
+            "experience_years": 5.0,
+            "education": "B.E. Mechanical Engineering, 2020",
+            "must_have_check": {
+                "passed": true,
+                "missing_requirements": [],
+                "experience_passed": true,
+                "required_experience": 3,
+                "candidate_experience": 5.0,
+                "required_skills": [
+                    "Manufacturing or production engineering",
+                    "Lean manufacturing or Six Sigma",
+                    "Root cause analysis",
+                    "Continuous improvement",
+                    "Engineering qualification"
+                ],
+                "matched_required_skills": [
+                    "b.e.",
+                    "kaizen",
+                    "lean manufacturing",
+                    "manufacturing",
+                    "mechanical engineering",
+                    "root cause analysis",
+                    "six sigma"
+                ],
+                "requirement_details": [
+                    {
+                        "requirement": "Manufacturing or production engineering",
+                        "passed": true,
+                        "matched_evidence": [
+                            "manufacturing"
+                        ],
+                        "alternatives": [
+                            "manufacturing",
+                            "production engineering"
+                        ]
+                    },
+                    {
+                        "requirement": "Lean manufacturing or Six Sigma",
+                        "passed": true,
+                        "matched_evidence": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ],
+                        "alternatives": [
+                            "lean manufacturing",
+                            "six sigma"
+                        ]
+                    },
+                    {
+                        "requirement": "Root cause analysis",
+                        "passed": true,
+                        "matched_evidence": [
+                            "root cause analysis"
+                        ],
+                        "alternatives": [
+                            "root cause analysis",
+                            "rca"
+                        ]
+                    },
+                    {
+                        "requirement": "Continuous improvement",
+                        "passed": true,
+                        "matched_evidence": [
+                            "kaizen"
+                        ],
+                        "alternatives": [
+                            "continuous improvement",
+                            "kaizen"
+                        ]
+                    },
+                    {
+                        "requirement": "Engineering qualification",
+                        "passed": true,
+                        "matched_evidence": [
+                            "b.e.",
+                            "mechanical engineering"
+                        ],
+                        "alternatives": [
+                            "b.tech",
+                            "btech",
+                            "b.e.",
+                            "bachelor of engineering",
+                            "bachelor's degree in engineering",
+                            "engineering degree",
+                            "mechanical engineering",
+                            "industrial engineering",
+                            "production engineering"
+                        ]
+                    }
+                ]
+            },
+            "score_breakdown": {
+                "semantic": 69.63,
+                "keyword": 66.67,
+                "experience": 100.0
+            },
+            "reasoning": "Semantic score: 69.63%. Keyword score: 66.67%. Experience score: 100.00%. Matched skills: lean manufacturing, manufacturing, root cause analysis, six sigma. Mandatory check: Passed all mandatory requirements."
+        }
+    ],
+    "latency_seconds": 0.2447
+}

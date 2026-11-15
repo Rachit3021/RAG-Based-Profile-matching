@@ -1,0 +1,31 @@
+resume_file,candidate_name,target_role,experience_years,education,skills,category
+resume_001.pdf,Aarav Mehta,Python Developer,3,"B.Tech Computer Science, 2022","Python, Django, FastAPI, PostgreSQL, REST APIs, Git, Docker",Software Engineering
+resume_002.pdf,Diya Sharma,Backend Engineer,5,"MCA, 2019","Python, Flask, Django, Redis, PostgreSQL, AWS, Docker, CI/CD",Software Engineering
+resume_003.pdf,Kabir Nair,Junior Python Developer,1,"B.Sc. Computer Science, 2024","Python, SQL, Flask, Pandas, Git, Linux, HTML, CSS",Software Engineering
+resume_004.pdf,Ishita Rao,Full Stack Developer,4,"B.Tech Information Technology, 2021","Python, Django, React, JavaScript, MySQL, REST APIs, Docker",Software Engineering
+resume_005.pdf,Rohan Gupta,Cloud Software Engineer,6,"B.Tech Computer Engineering, 2019","Python, FastAPI, AWS, Kubernetes, Terraform, PostgreSQL, Linux",Software Engineering
+resume_006.pdf,Mira Iyer,Automation Engineer,2,"B.E. Computer Science, 2023","Python, Selenium, PyTest, SQL, Jenkins, GitHub Actions",Software Engineering
+resume_007.pdf,Aditya Verma,Data Scientist,4,"M.Tech Data Science, 2021","Python, Machine Learning, Scikit-learn, Pandas, NumPy, SQL, Statistics",Data Science
+resume_008.pdf,Sana Khan,Machine Learning Engineer,5,"M.S. Computer Science, 2020","Python, TensorFlow, PyTorch, NLP, MLflow, Docker, AWS",Data Science
+resume_009.pdf,Vivaan Patel,Data Analyst,2,"B.Com, 2023","SQL, Python, Excel, Power BI, Tableau, Pandas",Data Science
+resume_010.pdf,Ananya Bose,NLP Research Associate,3,"M.Tech Artificial Intelligence, 2022","Python, NLP, Transformers, Hugging Face, PyTorch, spaCy",Data Science
+resume_011.pdf,Neil Thomas,Senior Data Scientist,8,"Ph.D. Statistics, 2017","Python, R, SQL, Machine Learning, XGBoost, Spark, Airflow",Data Science
+resume_012.pdf,Pooja Desai,Business Intelligence Analyst,1,"B.Sc. Mathematics, 2024","SQL, Power BI, Excel, Python, Data Visualization",Data Science
+resume_013.pdf,Arjun Singh,Mechanical Design Engineer,4,"B.Tech Mechanical Engineering, 2021","AutoCAD, SolidWorks, GD&T, FMEA, Design for Manufacturing, Excel",Mechanical Engineering
+resume_014.pdf,Kavya Menon,Production Engineer,5,"B.E. Mechanical Engineering, 2020","Lean Manufacturing, Six Sigma, 5S, Kaizen, SAP, Root Cause Analysis",Mechanical Engineering
+resume_015.pdf,Dev Malhotra,Graduate Mechanical Engineer,1,"B.Tech Mechanical Engineering, 2024","AutoCAD, SolidWorks, MATLAB, Thermodynamics, MS Excel",Mechanical Engineering
+resume_016.pdf,Nisha Kulkarni,Quality Engineer,6,"B.E. Mechanical Engineering, 2019","IATF 16949, 8D, SPC, PPAP, APQP, GD&T, FMEA",Mechanical Engineering
+resume_017.pdf,Rahul Chatterjee,HVAC Engineer,3,"M.Tech Thermal Engineering, 2022","HVAC, Refrigeration, Heat Transfer, AutoCAD, Testing, MATLAB",Mechanical Engineering
+resume_018.pdf,Tara Joshi,Maintenance Engineer,2,"Diploma Mechanical Engineering, 2023","Preventive Maintenance, TPM, PLC Basics, CMMS, Pneumatics, Hydraulics",Mechanical Engineering
+resume_019.pdf,Sameer Ali,HR Generalist,4,"MBA Human Resources, 2021","Recruitment, Onboarding, HRIS, Employee Relations, Excel, Payroll",Human Resources
+resume_020.pdf,Riya Kapoor,Talent Acquisition Specialist,3,"MBA HR, 2022","Sourcing, LinkedIn Recruiter, ATS, Interview Coordination, Boolean Search",Human Resources
+resume_021.pdf,Manav Shah,HR Intern,0,"BBA, 2025","Recruitment Coordination, Excel, Communication, HR Documentation",Human Resources
+resume_022.pdf,Ayesha Farooq,Learning and Development Manager,7,"MBA Organizational Behaviour, 2018","L&D, Training Needs Analysis, LMS, Facilitation, Performance Management",Human Resources
+resume_023.pdf,Karan Bhatia,People Operations Analyst,2,"B.Com, 2023","HR Analytics, Excel, Power BI, HRIS, Payroll, Data Analysis",Human Resources
+resume_024.pdf,Meera Pillai,HR Business Partner,9,"PGDM Human Resources, 2016","Workforce Planning, Employee Relations, Change Management, Talent Management",Human Resources
+resume_025.pdf,Zoya Mirza,Electrical Engineer,3,"B.Tech Electrical Engineering, 2022","MATLAB, PLC, SCADA, AutoCAD Electrical, Troubleshooting, Power Systems",Other Technical
+resume_026.pdf,Pranav Kulkarni,Cybersecurity Analyst,4,"B.Tech Information Security, 2021","SIEM, Splunk, Python, Linux, Incident Response, Vulnerability Assessment",Other Technical
+resume_027.pdf,Esha Roy,UX Designer,5,"B.Des Interaction Design, 2020","Figma, Prototyping, User Research, Usability Testing, Design Systems",Other Technical
+resume_028.pdf,Yash Sethi,Network Engineer,6,"B.E. Electronics, 2019","CCNA, Routing, Switching, Firewall, Linux, Network Monitoring",Other Technical
+resume_029.pdf,Fatima Noor,Embedded Systems Engineer,2,"B.Tech Electronics, 2023","C, C++, Embedded C, RTOS, Microcontrollers, MATLAB",Other Technical
+resume_030.pdf,Om Prakash,Technical Support Engineer,1,"B.Sc. Information Technology, 2024","Linux, SQL, Networking, Troubleshooting, Python Basics, Ticketing",Other Technical

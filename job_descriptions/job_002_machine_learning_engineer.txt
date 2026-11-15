@@ -1,0 +1,8 @@
+Role: Machine Learning Engineer
+Must-have requirements:
+- 3+ years of machine learning experience
+- Strong Python programming
+- Hands-on experience with PyTorch or TensorFlow
+- Experience deploying or maintaining ML models
+Preferred: NLP, Transformers, MLflow, Docker, AWS.
+Responsibilities: Train, evaluate and deploy models; monitor model quality and collaborate with data and engineering teams.

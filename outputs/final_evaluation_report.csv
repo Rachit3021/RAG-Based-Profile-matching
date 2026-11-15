@@ -1,0 +1,6 @@
+Job,Expected Category,Relevant in Top 10,Total Relevant,Precision@10,Recall@10,Retrieval Accuracy (%),Qualified Candidates,Must-have Pass Rate (%),Required Experience,Latency (seconds)
+job_001_python_backend_engineer,Software Engineering,6,6,0.6,1.0,60.0,0,0.0,5,0.3486
+job_002_machine_learning_engineer,Data Science,4,6,0.4,0.667,40.0,1,10.0,3,0.2836
+job_003_production_engineer,Mechanical Engineering,5,6,0.5,0.833,50.0,1,10.0,3,0.2447
+job_004_talent_acquisition_specialist,Human Resources,4,6,0.4,0.667,40.0,0,0.0,3,0.2455
+job_005_cybersecurity_analyst,Other Technical,3,6,0.3,0.5,30.0,0,0.0,3,0.2463

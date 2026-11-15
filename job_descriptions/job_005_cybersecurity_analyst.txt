@@ -1,0 +1,8 @@
+Role: Cybersecurity Analyst
+Must-have requirements:
+- 3+ years in cybersecurity or security operations
+- SIEM monitoring and security alert investigation
+- Incident response experience
+- Working knowledge of Linux and networking
+Preferred: Splunk, vulnerability assessment, Python scripting.
+Responsibilities: Triage alerts, investigate incidents, document findings and improve detection coverage.
