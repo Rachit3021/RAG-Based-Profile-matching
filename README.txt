@@ -141,11 +141,22 @@ Key near-misses that remain rejected:
 
 ## Demo video
 
-The 3-4 minute demo script is in `DEMO_SCRIPT.md`. It includes timestamps,
-narration, exact commands, and expected output. Record it with OBS Studio,
+A finished 3:16 screencast is included at `demo/Resume_RAG_Demo.mp4`
+(1920x1080, 20 fps, silent with burned-in captions). It shows the project in
+VS Code: the explorer, section-aware ingestion, the hybrid scoring code, live
+matcher runs for the ML and Python Backend jobs, and the evaluation metrics.
+
+| File | Contents |
+| --- | --- |
+| `demo/Resume_RAG_Demo.mp4` | Silent captioned demo, 3:16 |
+| `demo/Resume_RAG_Demo.srt` | Subtitle file for the demo |
+| `demo/Resume_RAG_Demo_thumbnail.png` | Preview frame |
+| `DEMO_SCRIPT.md` | Timed narration script for a live recording |
+
+To record your own narrated version, follow `DEMO_SCRIPT.md` with OBS Studio,
 Windows Game Bar (`Win + G`), or any screen recorder.
 
-A one-command demo is also available:
+A one-command live demo is also available:
 
 ```powershell
 # Demo the ML job using the existing database
@@ -160,6 +171,8 @@ A one-command demo is also available:
 
 `demo/show_results.py` prints a concise table of the top five candidates with
 scores, experience, matched evidence, missing requirements, and an excerpt.
+`demo/show_metrics.py` prints the per-job retrieval metrics and the qualified
+candidates from the saved CSV reports.
 
 ## Assignment mapping
 

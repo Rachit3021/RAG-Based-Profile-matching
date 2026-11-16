@@ -68,12 +68,12 @@ Additional useful fields: `qualified_matches`, `qualified_candidates_in_top_10`,
 | Dataset: 30+ resumes, 5+ JDs | Complete | `resumes/`, `job_descriptions/` |
 | Jupyter notebook with experimentation and analysis | Complete and executed | `notebooks/evaluation.ipynb` |
 | Performance metrics: retrieval accuracy, latency | Complete | `outputs/evaluation_metrics.csv`, `outputs/final_evaluation_report.csv`, notebook |
-| Demo video (3–4 minutes) | Script ready; recording required | `DEMO_SCRIPT.md`, `demo/run_demo.ps1` |
+| Demo video (3–4 minutes) | Complete — silent, captioned | `demo/Resume_RAG_Demo.mp4` (3:16) |
 
 ## Submission package
 
 `Resume-RAG-Submission.zip` is a clean package containing the code, dataset,
-notebook, outputs, documentation, demo scripts, and the built ChromaDB store. It
+notebook, outputs, documentation, demo video, and the built ChromaDB store. It
 excludes `.venv`, `__pycache__`, and notebook checkpoints.
 
 ## Final verified results
@@ -115,7 +115,7 @@ passed all six with zero errors.
 ## Notes
 
 - All resumes are synthetic. Do not use this project for real hiring decisions.
-- The demo video cannot be recorded by code; follow `DEMO_SCRIPT.md` and use a
-  screen recorder. The script is timed for 3–4 minutes and includes exact
-  commands and narration.
+- `demo/Resume_RAG_Demo.mp4` is a silent captioned screencast rendered from the
+  real project files and real command output. `DEMO_SCRIPT.md` is available if
+  you want to record a narrated live version instead.
 - The original notebook is retained at `notebooks/archive/Untitled.ipynb`.

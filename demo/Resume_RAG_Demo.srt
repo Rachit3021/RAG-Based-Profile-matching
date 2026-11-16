@@ -1,0 +1,87 @@
+1
+00:00:00,000 --> 00:00:07,000
+Resume RAG: 30 synthetic resumes, 5 job descriptions, HuggingFace
+
+2
+00:00:07,000 --> 00:00:14,000
+embeddings, ChromaDB - built in VS Code.
+
+3
+00:00:14,000 --> 00:00:26,000
+Two entry points: resume_rag.py builds the vector store; job_matcher.py
+
+4
+00:00:26,000 --> 00:00:38,000
+retrieves, scores, and enforces must-haves.
+
+5
+00:00:38,000 --> 00:00:51,000
+Resumes are chunked by section, not by character count - Skills, Experience,
+
+6
+00:00:51,000 --> 00:01:04,000
+and Education stay intact.
+
+7
+00:01:04,000 --> 00:01:14,000
+Running ingestion: 30 PDFs parsed, 150 section chunks embedded, 150 records
+
+8
+00:01:14,000 --> 00:01:24,000
+stored in ChromaDB.
+
+9
+00:01:24,000 --> 00:01:38,000
+Hybrid score: 60% semantic + 30% keyword + 10% experience. Any failed
+
+10
+00:01:38,000 --> 00:01:52,000
+must-have caps the score at 59.
+
+11
+00:01:52,000 --> 00:01:59,000
+contains_term() handles wording variants: REST API matches REST APIs, but
+
+12
+00:01:59,000 --> 00:02:06,000
+bare 'deployed' never counts.
+
+13
+00:02:06,000 --> 00:02:15,000
+Machine Learning Engineer: Sana Khan is the only qualified candidate in the
+
+14
+00:02:15,000 --> 00:02:24,000
+top 10, at 79.91.
+
+15
+00:02:24,000 --> 00:02:31,000
+Her evidence: deployed NLP classification models, monitored production
+
+16
+00:02:31,000 --> 00:02:38,000
+drift, Python, PyTorch, TensorFlow.
+
+17
+00:02:38,000 --> 00:02:45,000
+Python Backend: 0 qualified. Aarav's REST APIs now match, but 3 years and no
+
+18
+00:02:45,000 --> 00:02:52,000
+deployment still fail.
+
+19
+00:02:52,000 --> 00:02:57,000
+Evaluation: Precision@10 0.44, Recall@10 0.733, retrieval accuracy 44.0%,
+
+20
+00:02:57,000 --> 00:03:02,000
+~0.27s per job.
+
+21
+00:03:02,000 --> 00:03:09,000
+Only 2 of 30 candidates qualify - no inflated shortlist. Code:
+
+22
+00:03:09,000 --> 00:03:16,000
+github.com/Rachit3021/RAG-Based-Profile-matching

@@ -1,5 +1,10 @@
 # 3–4 Minute Demo Video Script
 
+A finished silent, captioned screencast is already included at
+`demo/Resume_RAG_Demo.mp4` (3:16, 1920x1080). It walks through VS Code, the
+ingestion code, live matcher runs, and the evaluation metrics. Use this script
+only if you prefer to record a narrated version yourself.
+
 This is a recording-ready walkthrough of the Resume RAG project. The demo can be
 recorded with OBS Studio, Windows Game Bar (`Win + G`), or any screen recorder.
 No camera is required.
